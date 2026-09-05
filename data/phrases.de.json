@@ -1,0 +1,20 @@
+[
+  { "id": "de-p-001", "source_lang": "de", "text": "Sie arbeitet jeden Tag", "translations": { "vi": "Cô ấy làm việc mỗi ngày" }, "grammar_focus": "praesens" },
+  { "id": "de-p-002", "source_lang": "de", "text": "Er ging zur Schule", "translations": { "vi": "Anh ấy đã đi bộ đến trường" }, "grammar_focus": "praeteritum" },
+  { "id": "de-p-003", "source_lang": "de", "text": "Ich lese gerade ein Buch", "translations": { "vi": "Tôi đang đọc một quyển sách" }, "grammar_focus": "praesens_verlaufsform" },
+  { "id": "de-p-004", "source_lang": "de", "text": "Sie ist schon gegangen", "translations": { "vi": "Cô ấy đã rời đi rồi" }, "grammar_focus": "perfekt" },
+  { "id": "de-p-005", "source_lang": "de", "text": "Ich habe gewartet", "translations": { "vi": "Tôi đã chờ đợi" }, "grammar_focus": "perfekt" },
+  { "id": "de-p-006", "source_lang": "de", "text": "Sie spielten Fussball", "translations": { "vi": "Họ đã đang chơi bóng đá" }, "grammar_focus": "praeteritum" },
+  { "id": "de-p-007", "source_lang": "de", "text": "Als wir ankamen, war sie schon weg", "translations": { "vi": "Khi chúng tôi đến, cô ấy đã đi rồi" }, "grammar_focus": "plusquamperfekt" },
+  { "id": "de-p-008", "source_lang": "de", "text": "Wir treffen uns morgen", "translations": { "vi": "Chúng tôi sẽ gặp nhau vào ngày mai" }, "grammar_focus": "praesens_futurisch" },
+  { "id": "de-p-009", "source_lang": "de", "text": "Ich werde naechstes Jahr reisen", "translations": { "vi": "Tôi sẽ đi du lịch vào năm sau" }, "grammar_focus": "futur1" },
+  { "id": "de-p-010", "source_lang": "de", "text": "Wir werden fertig sein", "translations": { "vi": "Chúng tôi sẽ hoàn thành" }, "grammar_focus": "futur1" },
+  { "id": "de-p-011", "source_lang": "de", "text": "Wenn es regnet, bleibe ich zu Hause", "translations": { "vi": "Nếu trời mưa, tôi sẽ ở nhà" }, "grammar_focus": "konditional1" },
+  { "id": "de-p-012", "source_lang": "de", "text": "Wenn ich reich waere, wuerde ich reisen", "translations": { "vi": "Nếu tôi giàu, tôi sẽ đi du lịch" }, "grammar_focus": "konjunktiv2" },
+  { "id": "de-p-013", "source_lang": "de", "text": "Haette ich gelernt, haette ich bestanden", "translations": { "vi": "Nếu tôi đã học, tôi đã có thể đỗ" }, "grammar_focus": "konjunktiv2_vergangenheit" },
+  { "id": "de-p-014", "source_lang": "de", "text": "Das Fenster wurde vom Sturm zerbrochen", "translations": { "vi": "Cửa sổ đã bị bão làm vỡ" }, "grammar_focus": "passiv" },
+  { "id": "de-p-015", "source_lang": "de", "text": "Du solltest einen Arzt aufsuchen", "translations": { "vi": "Bạn nên đi khám bác sĩ" }, "grammar_focus": "modalverb_sollen" },
+  { "id": "de-p-016", "source_lang": "de", "text": "Du musst einen Helm tragen", "translations": { "vi": "Bạn phải đội mũ bảo hiểm" }, "grammar_focus": "modalverb_muessen" },
+  { "id": "de-p-017", "source_lang": "de", "text": "Sie kann drei Sprachen sprechen", "translations": { "vi": "Cô ấy có thể nói ba ngôn ngữ" }, "grammar_focus": "modalverb_koennen" },
+  { "id": "de-p-018", "source_lang": "de", "text": "Er sagte, dass er muede sei", "translations": { "vi": "Anh ấy nói rằng anh ấy mệt" }, "grammar_focus": "indirekte_rede" }
+]

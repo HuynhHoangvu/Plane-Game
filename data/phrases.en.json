@@ -1,0 +1,20 @@
+[
+  { "id": "en-p-001", "source_lang": "en", "text": "She works every day", "translations": { "vi": "Cô ấy làm việc mỗi ngày" }, "grammar_focus": "simple_present" },
+  { "id": "en-p-002", "source_lang": "en", "text": "He walked to school", "translations": { "vi": "Anh ấy đã đi bộ đến trường" }, "grammar_focus": "simple_past" },
+  { "id": "en-p-003", "source_lang": "en", "text": "I am reading a book", "translations": { "vi": "Tôi đang đọc một quyển sách" }, "grammar_focus": "present_continuous" },
+  { "id": "en-p-004", "source_lang": "en", "text": "She has already left", "translations": { "vi": "Cô ấy đã rời đi rồi" }, "grammar_focus": "present_perfect" },
+  { "id": "en-p-005", "source_lang": "en", "text": "I have been waiting", "translations": { "vi": "Tôi đã và đang chờ đợi" }, "grammar_focus": "present_perfect_continuous" },
+  { "id": "en-p-006", "source_lang": "en", "text": "They were playing football", "translations": { "vi": "Họ đã đang chơi bóng đá" }, "grammar_focus": "past_continuous" },
+  { "id": "en-p-007", "source_lang": "en", "text": "By the time we arrived, she had gone", "translations": { "vi": "Khi chúng tôi đến, cô ấy đã đi rồi" }, "grammar_focus": "past_perfect" },
+  { "id": "en-p-008", "source_lang": "en", "text": "We will meet tomorrow", "translations": { "vi": "Chúng tôi sẽ gặp nhau vào ngày mai" }, "grammar_focus": "future_simple" },
+  { "id": "en-p-009", "source_lang": "en", "text": "I am going to travel next year", "translations": { "vi": "Tôi sẽ đi du lịch vào năm sau" }, "grammar_focus": "going_to_future" },
+  { "id": "en-p-010", "source_lang": "en", "text": "We will have finished by then", "translations": { "vi": "Chúng tôi sẽ đã hoàn thành vào lúc đó" }, "grammar_focus": "future_perfect" },
+  { "id": "en-p-011", "source_lang": "en", "text": "If it rains, I will stay home", "translations": { "vi": "Nếu trời mưa, tôi sẽ ở nhà" }, "grammar_focus": "conditional_type1" },
+  { "id": "en-p-012", "source_lang": "en", "text": "If I were rich, I would travel", "translations": { "vi": "Nếu tôi giàu, tôi sẽ đi du lịch" }, "grammar_focus": "conditional_type2" },
+  { "id": "en-p-013", "source_lang": "en", "text": "If I had studied, I would have passed", "translations": { "vi": "Nếu tôi đã học, tôi đã có thể đỗ" }, "grammar_focus": "conditional_type3" },
+  { "id": "en-p-014", "source_lang": "en", "text": "The window was broken by the storm", "translations": { "vi": "Cửa sổ đã bị bão làm vỡ" }, "grammar_focus": "passive_voice" },
+  { "id": "en-p-015", "source_lang": "en", "text": "You should see a doctor", "translations": { "vi": "Bạn nên đi khám bác sĩ" }, "grammar_focus": "modal_should" },
+  { "id": "en-p-016", "source_lang": "en", "text": "You must wear a helmet", "translations": { "vi": "Bạn phải đội mũ bảo hiểm" }, "grammar_focus": "modal_must" },
+  { "id": "en-p-017", "source_lang": "en", "text": "She can speak three languages", "translations": { "vi": "Cô ấy có thể nói ba ngôn ngữ" }, "grammar_focus": "modal_can" },
+  { "id": "en-p-018", "source_lang": "en", "text": "He said that he was tired", "translations": { "vi": "Anh ấy nói rằng anh ấy mệt" }, "grammar_focus": "reported_speech" }
+]

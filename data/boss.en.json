@@ -1,0 +1,46 @@
+[
+  {
+    "boss_id": "boss_en_past_perfect",
+    "source_lang": "en",
+    "grammar_focus": "past_perfect",
+    "text": "By the time the hero arrived, the dragon had already destroyed the village. The villagers had fled to the mountains before the fire spread.",
+    "translations": {
+      "vi": "Vào thời điểm anh hùng đến, con rồng đã phá hủy ngôi làng. Dân làng đã chạy trốn lên núi trước khi ngọn lửa lan rộng."
+    },
+    "time_limit_seconds": 25,
+    "base_score": 5000
+  },
+  {
+    "boss_id": "boss_en_present_perfect",
+    "source_lang": "en",
+    "grammar_focus": "present_perfect",
+    "text": "Scientists have discovered a new species deep in the ocean. They have studied it for months, but they have not found where it comes from.",
+    "translations": {
+      "vi": "Các nhà khoa học đã phát hiện ra một loài mới ở sâu dưới đại dương. Họ đã nghiên cứu nó trong nhiều tháng, nhưng vẫn chưa tìm ra nó đến từ đâu."
+    },
+    "time_limit_seconds": 25,
+    "base_score": 5000
+  },
+  {
+    "boss_id": "boss_en_conditional_type2",
+    "source_lang": "en",
+    "grammar_focus": "conditional_type2",
+    "text": "If the king had more courage, he would fight the beast himself. If the kingdom were united, they would win this war easily.",
+    "translations": {
+      "vi": "Nếu nhà vua có nhiều can đảm hơn, ông sẽ tự mình chiến đấu với con quái vật. Nếu vương quốc đoàn kết, họ sẽ dễ dàng chiến thắng cuộc chiến này."
+    },
+    "time_limit_seconds": 25,
+    "base_score": 5000
+  },
+  {
+    "boss_id": "boss_en_passive_voice",
+    "source_lang": "en",
+    "grammar_focus": "passive_voice",
+    "text": "The ancient castle was built centuries ago. It has been visited by thousands of travelers, and its secrets are still being studied today.",
+    "translations": {
+      "vi": "Lâu đài cổ này được xây dựng từ nhiều thế kỷ trước. Nó đã được hàng ngàn du khách ghé thăm, và những bí mật của nó vẫn đang được nghiên cứu cho đến ngày nay."
+    },
+    "time_limit_seconds": 25,
+    "base_score": 5000
+  }
+]

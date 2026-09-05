@@ -1,0 +1,46 @@
+[
+  {
+    "boss_id": "boss_de_plusquamperfekt",
+    "source_lang": "de",
+    "grammar_focus": "plusquamperfekt",
+    "text": "Als der Held ankam, hatte der Drache das Dorf bereits zerstoert. Die Dorfbewohner waren in die Berge geflohen, bevor sich das Feuer ausbreitete.",
+    "translations": {
+      "vi": "Vào thời điểm anh hùng đến, con rồng đã phá hủy ngôi làng. Dân làng đã chạy trốn lên núi trước khi ngọn lửa lan rộng."
+    },
+    "time_limit_seconds": 25,
+    "base_score": 5000
+  },
+  {
+    "boss_id": "boss_de_perfekt",
+    "source_lang": "de",
+    "grammar_focus": "perfekt",
+    "text": "Wissenschaftler haben eine neue Art tief im Ozean entdeckt. Sie haben sie monatelang untersucht, aber sie haben noch nicht herausgefunden, woher sie kommt.",
+    "translations": {
+      "vi": "Các nhà khoa học đã phát hiện ra một loài mới ở sâu dưới đại dương. Họ đã nghiên cứu nó trong nhiều tháng, nhưng vẫn chưa tìm ra nó đến từ đâu."
+    },
+    "time_limit_seconds": 25,
+    "base_score": 5000
+  },
+  {
+    "boss_id": "boss_de_konjunktiv2",
+    "source_lang": "de",
+    "grammar_focus": "konjunktiv2",
+    "text": "Wenn der Koenig mehr Mut haette, wuerde er selbst gegen das Untier kaempfen. Wenn das Koenigreich vereint waere, wuerden sie diesen Krieg leicht gewinnen.",
+    "translations": {
+      "vi": "Nếu nhà vua có nhiều can đảm hơn, ông sẽ tự mình chiến đấu với con quái vật. Nếu vương quốc đoàn kết, họ sẽ dễ dàng chiến thắng cuộc chiến này."
+    },
+    "time_limit_seconds": 25,
+    "base_score": 5000
+  },
+  {
+    "boss_id": "boss_de_passiv",
+    "source_lang": "de",
+    "grammar_focus": "passiv",
+    "text": "Die alte Burg wurde vor Jahrhunderten erbaut. Sie ist von Tausenden Reisenden besucht worden, und ihre Geheimnisse werden bis heute erforscht.",
+    "translations": {
+      "vi": "Lâu đài cổ này được xây dựng từ nhiều thế kỷ trước. Nó đã được hàng ngàn du khách ghé thăm, và những bí mật của nó vẫn đang được nghiên cứu cho đến ngày nay."
+    },
+    "time_limit_seconds": 25,
+    "base_score": 5000
+  }
+]
