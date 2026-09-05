@@ -280,6 +280,12 @@ export default function GameCanvas({
         : list[0];
     const comfortableTime = nextBoss.text.length * 0.55 + 8;
     const timeLimit = Math.max(nextBoss.time_limit_seconds, comfortableTime);
+
+    entitiesRef.current = [];
+    lockedIdRef.current = null;
+    projectilesRef.current = [];
+    spawnCountRef.current += 1;
+
     setBoss(nextBoss);
     setBossActive(true);
     setBossTypedLength(0);
