@@ -14,6 +14,7 @@ import {
 import { processKeyPress } from "@/lib/game/typingSystem";
 import { buildHint } from "@/lib/game/recallSystem";
 import { playCorrectBeep, playErrorBeep, playExplosion, playWarning } from "@/lib/game/audio";
+import { speakOffline, primeOfflineTts } from "@/lib/game/offlineTts";
 import {
   loadMuted,
   saveMuted,
@@ -142,14 +143,8 @@ export default function GameCanvas({
   }, []);
 
   useEffect(() => {
-    if (typeof window === "undefined" || !window.speechSynthesis) return;
-    // Chrome loads voices asynchronously; calling getVoices() once primes the list
-    // and "voiceschanged" fires when it's actually populated.
-    window.speechSynthesis.getVoices();
-    const onVoicesChanged = () => window.speechSynthesis.getVoices();
-    window.speechSynthesis.addEventListener("voiceschanged", onVoicesChanged);
-    return () => window.speechSynthesis.removeEventListener("voiceschanged", onVoicesChanged);
-  }, []);
+    primeOfflineTts(sourceLang);
+  }, [sourceLang]);
 
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect
@@ -184,20 +179,7 @@ export default function GameCanvas({
   const speakText = useCallback(
     (text: string) => {
       if (mutedRef.current) return;
-      if (typeof window === "undefined" || !window.speechSynthesis) return;
-      window.speechSynthesis.cancel();
-      const targetLang = sourceLang === "de" ? "de-DE" : "en-US";
-      const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = targetLang;
-      utterance.rate = 0.95;
-
-      const voices = window.speechSynthesis.getVoices();
-      const matchedVoice =
-        voices.find((v) => v.lang === targetLang) ??
-        voices.find((v) => v.lang.toLowerCase().startsWith(sourceLang));
-      if (matchedVoice) utterance.voice = matchedVoice;
-
-      window.speechSynthesis.speak(utterance);
+      speakOffline(text, sourceLang);
     },
     [sourceLang],
   );
@@ -206,7 +188,6 @@ export default function GameCanvas({
     setMuted((m) => {
       const next = !m;
       saveMuted(next);
-      if (next) window.speechSynthesis?.cancel();
       return next;
     });
   }, []);

@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Vendored third-party TTS engine (mespeak/eSpeak) — not our code, not linted.
+    "lib/game/mespeak-vendor/**",
   ]),
 ]);
 
