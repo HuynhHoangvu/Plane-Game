@@ -92,6 +92,7 @@ export default function GameCanvas({
   const [bossTimeLeft, setBossTimeLeft] = useState(0);
   const [bossTotalTime, setBossTotalTime] = useState(0);
   const [bossReveal, setBossReveal] = useState(false);
+  const [bossSpawnsIn, setBossSpawnsIn] = useState(40);
 
   const entitiesRef = useRef<FallingEntity[]>([]);
   const lockedIdRef = useRef<string | null>(null);
@@ -113,6 +114,7 @@ export default function GameCanvas({
   const bossListRef = useRef<BossData[]>([]);
   const planeAngleRef = useRef(0);
   const planeRecoilRef = useRef(0);
+  const bossSpawnsInRef = useRef(40);
 
   useEffect(() => {
     pausedRef.current = paused;
@@ -521,11 +523,17 @@ export default function GameCanvas({
         ctx.globalAlpha = 1;
       });
 
+      const newBossSpawnsIn = spawnCountRef.current > 0 ? 40 - (spawnCountRef.current % 40) : 40;
+      if (newBossSpawnsIn !== bossSpawnsInRef.current) {
+        bossSpawnsInRef.current = newBossSpawnsIn;
+        setBossSpawnsIn(newBossSpawnsIn);
+      }
+
       if (
         !bossActiveRef.current &&
         bossRef.current &&
         spawnCountRef.current > 0 &&
-        spawnCountRef.current % 20 === 0
+        spawnCountRef.current % 40 === 0
       ) {
         triggerBoss();
       }
@@ -667,6 +675,7 @@ export default function GameCanvas({
         combo={combo}
         hp={hp}
         maxHp={MAX_HP}
+        bossSpawnsIn={bossSpawnsIn}
         paused={paused}
         onTogglePause={() => setPaused((p) => !p)}
         muted={muted}

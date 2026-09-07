@@ -38,7 +38,10 @@ async function ensureReady(lang: SourceLang) {
   if (!voiceLoadPromises[lang]) {
     voiceLoadPromises[lang] = fetch(VOICE_URL[lang])
       .then((r) => r.json())
-      .then((data) => meSpeak.loadVoice(data));
+      .then((data) => {
+        meSpeak.loadVoice(data);
+        meSpeak.setDefaultVoice(VOICE_ID[lang]);
+      });
   }
   await voiceLoadPromises[lang];
 
@@ -54,7 +57,6 @@ export function primeOfflineTts(lang: SourceLang) {
 export async function speakOffline(text: string, lang: SourceLang): Promise<void> {
   try {
     const meSpeak = await ensureReady(lang);
-    meSpeak.setDefaultVoice(VOICE_ID[lang]);
     meSpeak.speak(text, { amplitude: 100, pitch: 50, speed: 155 });
   } catch {
     // offline TTS unavailable — fail silently, gameplay is unaffected

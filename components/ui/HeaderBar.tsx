@@ -7,6 +7,7 @@ interface HeaderBarProps {
   combo: number;
   hp: number;
   maxHp: number;
+  bossSpawnsIn: number;
   paused: boolean;
   onTogglePause: () => void;
   muted: boolean;
@@ -20,6 +21,7 @@ export default function HeaderBar({
   combo,
   hp,
   maxHp,
+  bossSpawnsIn,
   paused,
   onTogglePause,
   muted,
@@ -30,6 +32,19 @@ export default function HeaderBar({
       <div className="flex flex-col">
         <span className="text-xs font-medium text-cyan-300">Level {level}/20</span>
         <span className="text-[11px] text-white/50">CEFR: {topic}</span>
+        {bossSpawnsIn > 0 && bossSpawnsIn <= 3 && (
+          <span
+            className={`mt-1 text-[11px] font-semibold ${
+              bossSpawnsIn === 1
+                ? "animate-pulse text-rose-400"
+                : bossSpawnsIn === 2
+                  ? "animate-pulse text-amber-400"
+                  : "text-amber-300"
+            }`}
+          >
+            ⚡ Boss in {bossSpawnsIn}
+          </span>
+        )}
       </div>
 
       <div className="flex flex-col items-center">
