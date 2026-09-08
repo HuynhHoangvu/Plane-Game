@@ -3,44 +3,44 @@
     "boss_id": "boss_en_past_perfect",
     "source_lang": "en",
     "grammar_focus": "past_perfect",
-    "text": "By the time the hero arrived, the dragon had already destroyed the village. The villagers had fled to the mountains before the fire spread.",
+    "text": "By the time the valiant warrior arrived, the formidable dragon had already obliterated the settlement. The terrified inhabitants had evacuated to the precipitous mountains before the inferno had engulfed the entire vicinity.",
     "translations": {
-      "vi": "Vào thời điểm anh hùng đến, con rồng đã phá hủy ngôi làng. Dân làng đã chạy trốn lên núi trước khi ngọn lửa lan rộng."
+      "vi": "Vào thời điểm chiến sĩ dũng cảm đến, con rồng khủng khiếp đã phá hủy hoàn toàn khu định cư. Cư dân sợ hãi đã sơ tán lên những ngọn núi dốc trước khi ngọn lửa dữ dội quét qua toàn bộ vùng lân cận."
     },
-    "time_limit_seconds": 25,
-    "base_score": 5000
+    "time_limit_seconds": 28,
+    "base_score": 5500
   },
   {
     "boss_id": "boss_en_present_perfect",
     "source_lang": "en",
     "grammar_focus": "present_perfect",
-    "text": "Scientists have discovered a new species deep in the ocean. They have studied it for months, but they have not found where it comes from.",
+    "text": "Renowned scientists have recently unearthed a remarkable and enigmatic species inhabiting the abyssal depths of the ocean. They have meticulously examined its peculiar characteristics for an extended period, yet they have remained unable to ascertain its geographic provenance.",
     "translations": {
-      "vi": "Các nhà khoa học đã phát hiện ra một loài mới ở sâu dưới đại dương. Họ đã nghiên cứu nó trong nhiều tháng, nhưng vẫn chưa tìm ra nó đến từ đâu."
+      "vi": "Các nhà khoa học nổi tiếng đã gần đây khai quật một loài kỳ lạ và bí ẩn sinh sống ở những vực sâu của đại dương. Họ đã kinh tế nghiên cứu những đặc điểm kỳ quặc của nó trong một khoảng thời gian dài, nhưng vẫn không thể xác định được nguồn gốc địa lý của nó."
     },
-    "time_limit_seconds": 25,
-    "base_score": 5000
+    "time_limit_seconds": 30,
+    "base_score": 5500
   },
   {
     "boss_id": "boss_en_conditional_type2",
     "source_lang": "en",
     "grammar_focus": "conditional_type2",
-    "text": "If the king had more courage, he would fight the beast himself. If the kingdom were united, they would win this war easily.",
+    "text": "If the monarch possessed sufficient fortitude and audacity, he would personally confront and vanquish the formidable beast. Were the kingdom to achieve unprecedented unity and cohesion, they would unquestionably triumph over their adversaries with remarkable ease.",
     "translations": {
-      "vi": "Nếu nhà vua có nhiều can đảm hơn, ông sẽ tự mình chiến đấu với con quái vật. Nếu vương quốc đoàn kết, họ sẽ dễ dàng chiến thắng cuộc chiến này."
+      "vi": "Nếu nhà vua sở hữu đủ sức mạnh tinh thần và táo bạo, ông sẽ trực tiếp đối mặt và đánh bại con quái vật khủng khiếp. Nếu vương quốc đạt được sự đoàn kết chưa từng có, họ chắc chắn sẽ chiến thắng kẻ thù của mình một cách dễ dàng."
     },
-    "time_limit_seconds": 25,
-    "base_score": 5000
+    "time_limit_seconds": 30,
+    "base_score": 5500
   },
   {
     "boss_id": "boss_en_passive_voice",
     "source_lang": "en",
     "grammar_focus": "passive_voice",
-    "text": "The ancient castle was built centuries ago. It has been visited by thousands of travelers, and its secrets are still being studied today.",
+    "text": "This venerable fortress was meticulously constructed during the medieval epochs. It has been subsequently visited by innumerable pilgrims and scholars, and its esoteric mysteries continue to be methodically analyzed and scrutinized by contemporary researchers and historians.",
     "translations": {
-      "vi": "Lâu đài cổ này được xây dựng từ nhiều thế kỷ trước. Nó đã được hàng ngàn du khách ghé thăm, và những bí mật của nó vẫn đang được nghiên cứu cho đến ngày nay."
+      "vi": "Pháo đài cổ kính này được xây dựng tỉ mỉ trong các thời kỳ trung cổ. Nó đã được hàng vô số hành giả và học giả ghé thăm sau đó, và những bí ẩn thầm kín của nó tiếp tục được các nhà nghiên cứu và sử gia đương đại phân tích và kiểm tra một cách có phương pháp."
     },
-    "time_limit_seconds": 25,
-    "base_score": 5000
+    "time_limit_seconds": 32,
+    "base_score": 5500
   }
 ]
