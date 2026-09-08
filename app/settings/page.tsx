@@ -1,4 +1,5 @@
 import Link from "next/link";
+import type { CEFRLevel } from "@/lib/types";
 import {
   SOURCE_LANGUAGES,
   CEFR_LEVELS,
@@ -6,6 +7,7 @@ import {
   FALL_SPEED_OPTIONS,
   DEFAULT_FALL_SPEED,
 } from "@/lib/languages";
+import LanguageButton from "@/components/ui/LanguageButton";
 
 const GAME_MODES = [
   { code: "normal", label: "Bình thường", hint: "Từ hiển thị rõ ràng" },
@@ -96,14 +98,14 @@ export default async function SettingsPage({ searchParams }: SettingsPageProps) 
         <span className="text-xs uppercase tracking-widest text-white/40">Ngôn ngữ</span>
         <div className="flex gap-4">
           {SOURCE_LANGUAGES.map((l) => (
-            <Link
+            <LanguageButton
               key={l.code}
+              code={l.code}
+              flag={l.flag}
+              label={l.label}
               href={`/game?lang=${l.code}&level=${selectedLevel}&speed=${selectedSpeed}&mode=${selectedMode}`}
-              className="rounded-xl border border-white/10 bg-white/5 px-6 py-4 text-white transition hover:bg-white/10"
-            >
-              <div className="text-2xl">{l.flag}</div>
-              <div className="mt-1 text-sm">{l.label}</div>
-            </Link>
+              cefrLevel={selectedLevel as CEFRLevel}
+            />
           ))}
         </div>
       </div>
