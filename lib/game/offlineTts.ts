@@ -38,12 +38,10 @@ async function ensureReady(lang: SourceLang) {
   if (!voiceLoadPromises[lang]) {
     voiceLoadPromises[lang] = fetch(VOICE_URL[lang])
       .then((r) => r.json())
-      .then((data) => {
-        meSpeak.loadVoice(data);
-        meSpeak.setDefaultVoice(VOICE_ID[lang]);
-      });
+      .then((data) => meSpeak.loadVoice(data));
   }
   await voiceLoadPromises[lang];
+  meSpeak.setDefaultVoice(VOICE_ID[lang]);
 
   return meSpeak;
 }
