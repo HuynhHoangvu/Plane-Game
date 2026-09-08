@@ -30,7 +30,7 @@ export default function HeaderBar({
   return (
     <div className="mb-3 flex items-center justify-between rounded-xl border border-white/10 bg-white/5 px-4 py-2 backdrop-blur-md">
       <div className="flex flex-col">
-        <span className="text-xs font-medium text-cyan-300">Level {level}/20</span>
+        <span className="text-xs font-medium text-cyan-300">Level {level}/50</span>
         <span className="text-[11px] text-white/50">CEFR: {topic}</span>
         {bossSpawnsIn > 0 && bossSpawnsIn <= 3 && (
           <span

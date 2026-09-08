@@ -28,15 +28,15 @@ export function findSpawnX(
 
 export function spawnRateForLevel(level: number): number {
   const start = 2.7;
-  const end = 0.9;
-  const t = Math.min(1, (level - 1) / 19);
+  const end = 0.6;
+  const t = Math.min(1, (level - 1) / 49);
   return start + (end - start) * t;
 }
 
 export function maxActiveForLevel(level: number): number {
   const start = 5;
-  const end = 10;
-  const t = Math.min(1, (level - 1) / 19);
+  const end = 14;
+  const t = Math.min(1, (level - 1) / 49);
   return Math.round(start + (end - start) * t);
 }
 
@@ -46,8 +46,8 @@ export function baseSpeedForLevel(
   speedMultiplier = 1,
 ): number {
   const fallTimeStart = 13;
-  const fallTimeEnd = 5.5;
-  const t = Math.min(1, (level - 1) / 9);
+  const fallTimeEnd = 4.5;
+  const t = Math.min(1, (level - 1) / 29);
   const fallTime = fallTimeStart + (fallTimeEnd - fallTimeStart) * t;
   return (canvasHeight / fallTime) * speedMultiplier;
 }

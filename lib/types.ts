@@ -19,6 +19,7 @@ export interface PhraseData {
   text: string;
   translations: Translation;
   grammar_focus: string;
+  level: CEFRLevel;
 }
 
 export interface BossData {

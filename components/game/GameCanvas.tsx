@@ -64,16 +64,18 @@ export default function GameCanvas({
   cefrLevel,
   fallSpeedMultiplier = 0.8,
   gameMode = "normal",
+  startLevel = 1,
 }: {
   sourceLang: SourceLang;
   cefrLevel: CEFRLevel;
   fallSpeedMultiplier?: number;
   gameMode?: "normal" | "recall";
+  startLevel?: number;
 }) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const ctxRef = useRef<CanvasRenderingContext2D | null>(null);
 
-  const [level, setLevel] = useState(1);
+  const [level, setLevel] = useState(startLevel);
   const [topic] = useState(cefrLevel);
   const [score, setScore] = useState(0);
   const [combo, setCombo] = useState(0);
@@ -155,7 +157,7 @@ export default function GameCanvas({
 
   useEffect(() => {
     fetch(`/api/words?lang=${sourceLang}&level=${cefrLevel}`).then((r) => r.json()).then(setWords);
-    fetch(`/api/phrases?lang=${sourceLang}`).then((r) => r.json()).then(setPhrases);
+    fetch(`/api/phrases?lang=${sourceLang}&level=${cefrLevel}`).then((r) => r.json()).then(setPhrases);
     fetch(`/api/boss?lang=${sourceLang}`)
       .then((r) => r.json())
       .then((list: BossData[]) => {
@@ -660,7 +662,7 @@ export default function GameCanvas({
     setScore(0);
     setCombo(0);
     setHp(MAX_HP);
-    setLevel(1);
+    setLevel(startLevel);
     setGameOver(false);
     setBossActive(false);
     setBossReveal(false);

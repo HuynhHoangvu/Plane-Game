@@ -1,4 +1,5 @@
 import Link from "next/link";
+import QuickPlayButton from "@/components/ui/QuickPlayButton";
 
 export default function Home() {
   return (
@@ -10,19 +11,21 @@ export default function Home() {
         Luyện gõ phím, học từ vựng và ngữ pháp tiếng Anh &amp; tiếng Đức qua các đợt tấn công của Minion, Elite và Boss.
       </p>
 
-      <div className="mt-10 flex flex-col gap-4 sm:flex-row">
-        <Link
-          href="/game?lang=en&level=A1"
-          className="rounded-full bg-gradient-to-r from-cyan-500 to-blue-600 px-8 py-3 font-semibold text-white shadow-lg shadow-cyan-950/50 transition hover:scale-105"
-        >
-          🇬🇧 Chơi English
-        </Link>
-        <Link
-          href="/game?lang=de&level=A1"
-          className="rounded-full bg-gradient-to-r from-amber-500 to-rose-600 px-8 py-3 font-semibold text-white shadow-lg shadow-rose-950/50 transition hover:scale-105"
-        >
-          🇩🇪 Chơi Deutsch
-        </Link>
+      <div className="mt-10 flex flex-col gap-6 sm:flex-row">
+        <QuickPlayButton
+          lang="en"
+          flag="🇬🇧"
+          label="Chơi English"
+          gradientClass="from-cyan-500 to-blue-600"
+          shadowClass="shadow-cyan-950/50"
+        />
+        <QuickPlayButton
+          lang="de"
+          flag="🇩🇪"
+          label="Chơi Deutsch"
+          gradientClass="from-amber-500 to-rose-600"
+          shadowClass="shadow-rose-950/50"
+        />
       </div>
 
       <div className="mt-8 flex gap-4 text-sm text-white/40">
