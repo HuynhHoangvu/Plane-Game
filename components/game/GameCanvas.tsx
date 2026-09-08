@@ -13,6 +13,7 @@ import {
 } from "@/lib/game/spawnSystem";
 import { processKeyPress } from "@/lib/game/typingSystem";
 import { buildHint } from "@/lib/game/recallSystem";
+import { createShuffleBag, type ShuffleBag } from "@/lib/game/shuffleBag";
 import { playCorrectBeep, playErrorBeep, playExplosion, playWarning } from "@/lib/game/audio";
 import { speakOffline, primeOfflineTts } from "@/lib/game/offlineTts";
 import {
@@ -105,6 +106,8 @@ export default function GameCanvas({
   const rafRef = useRef<number | null>(null);
   const lastTimeRef = useRef<number | null>(null);
   const spawnCountRef = useRef(0);
+  const wordsBagRef = useRef<ShuffleBag<WordData> | null>(null);
+  const phrasesBagRef = useRef<ShuffleBag<PhraseData> | null>(null);
 
   const pausedRef = useRef(paused);
   const bossActiveRef = useRef(bossActive);
@@ -165,6 +168,13 @@ export default function GameCanvas({
         setBoss(list[Math.floor(Math.random() * list.length)] ?? null);
       });
   }, [sourceLang, cefrLevel]);
+
+  useEffect(() => {
+    wordsBagRef.current = words.length > 0 ? createShuffleBag(words) : null;
+  }, [words]);
+  useEffect(() => {
+    phrasesBagRef.current = phrases.length > 0 ? createShuffleBag(phrases) : null;
+  }, [phrases]);
 
   const spawnParticles = useCallback((x: number, y: number, color: string) => {
     for (let i = 0; i < 18; i++) {
@@ -236,12 +246,12 @@ export default function GameCanvas({
     let kind: FallingEntity["kind"] = "minion";
 
     if (useElite) {
-      const p = phrasesPool[Math.floor(Math.random() * phrasesPool.length)];
+      const p = phrasesBagRef.current?.next() ?? phrasesPool[Math.floor(Math.random() * phrasesPool.length)];
       text = p.text;
       meaning = p.translations["vi"] ?? "";
       kind = "elite";
     } else {
-      const w = wordsPool[Math.floor(Math.random() * wordsPool.length)];
+      const w = wordsBagRef.current?.next() ?? wordsPool[Math.floor(Math.random() * wordsPool.length)];
       text = w.word;
       meaning = w.translations["vi"] ?? "";
       kind = useRecall ? "recall" : "minion";
