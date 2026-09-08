@@ -5198,5 +5198,1475 @@
     },
     "topic": "General",
     "level": "C2"
+  },
+  {
+    "id": "de-a1-521",
+    "source_lang": "de",
+    "word": "sohn",
+    "translations": {
+      "vi": "con trai"
+    },
+    "topic": "Familie",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-522",
+    "source_lang": "de",
+    "word": "eltern",
+    "translations": {
+      "vi": "bố mẹ, phụ huynh"
+    },
+    "topic": "Familie",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-523",
+    "source_lang": "de",
+    "word": "mittag",
+    "translations": {
+      "vi": "buổi trưa"
+    },
+    "topic": "Zeit",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-524",
+    "source_lang": "de",
+    "word": "montag",
+    "translations": {
+      "vi": "thứ hai"
+    },
+    "topic": "Zeit",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-525",
+    "source_lang": "de",
+    "word": "dienstag",
+    "translations": {
+      "vi": "thứ ba"
+    },
+    "topic": "Zeit",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-526",
+    "source_lang": "de",
+    "word": "mittwoch",
+    "translations": {
+      "vi": "thứ tư"
+    },
+    "topic": "Zeit",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-527",
+    "source_lang": "de",
+    "word": "donnerstag",
+    "translations": {
+      "vi": "thứ năm"
+    },
+    "topic": "Zeit",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-528",
+    "source_lang": "de",
+    "word": "freitag",
+    "translations": {
+      "vi": "thứ sáu"
+    },
+    "topic": "Zeit",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-529",
+    "source_lang": "de",
+    "word": "samstag",
+    "translations": {
+      "vi": "thứ bảy"
+    },
+    "topic": "Zeit",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-530",
+    "source_lang": "de",
+    "word": "sonntag",
+    "translations": {
+      "vi": "chủ nhật"
+    },
+    "topic": "Zeit",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-531",
+    "source_lang": "de",
+    "word": "wochenende",
+    "translations": {
+      "vi": "cuối tuần"
+    },
+    "topic": "Zeit",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-532",
+    "source_lang": "de",
+    "word": "fruehstueck",
+    "translations": {
+      "vi": "bữa sáng"
+    },
+    "topic": "Essen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-533",
+    "source_lang": "de",
+    "word": "mittagessen",
+    "translations": {
+      "vi": "bữa trưa"
+    },
+    "topic": "Essen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-534",
+    "source_lang": "de",
+    "word": "abendessen",
+    "translations": {
+      "vi": "bữa tối"
+    },
+    "topic": "Essen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-535",
+    "source_lang": "de",
+    "word": "kartoffel",
+    "translations": {
+      "vi": "khoai tây"
+    },
+    "topic": "Essen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-536",
+    "source_lang": "de",
+    "word": "tomate",
+    "translations": {
+      "vi": "cà chua"
+    },
+    "topic": "Essen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-537",
+    "source_lang": "de",
+    "word": "kaese",
+    "translations": {
+      "vi": "phô mai"
+    },
+    "topic": "Essen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-538",
+    "source_lang": "de",
+    "word": "butter",
+    "translations": {
+      "vi": "bơ"
+    },
+    "topic": "Essen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-539",
+    "source_lang": "de",
+    "word": "tasse",
+    "translations": {
+      "vi": "cái tách, ly"
+    },
+    "topic": "Kueche",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-540",
+    "source_lang": "de",
+    "word": "kuehlschrank",
+    "translations": {
+      "vi": "tủ lạnh"
+    },
+    "topic": "Wohnen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-541",
+    "source_lang": "de",
+    "word": "badezimmer",
+    "translations": {
+      "vi": "phòng tắm"
+    },
+    "topic": "Wohnen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-542",
+    "source_lang": "de",
+    "word": "wohnzimmer",
+    "translations": {
+      "vi": "phòng khách"
+    },
+    "topic": "Wohnen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-543",
+    "source_lang": "de",
+    "word": "balkon",
+    "translations": {
+      "vi": "ban công"
+    },
+    "topic": "Wohnen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-544",
+    "source_lang": "de",
+    "word": "treppe",
+    "translations": {
+      "vi": "cầu thang"
+    },
+    "topic": "Wohnen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-545",
+    "source_lang": "de",
+    "word": "schrank",
+    "translations": {
+      "vi": "tủ quần áo"
+    },
+    "topic": "Wohnen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-546",
+    "source_lang": "de",
+    "word": "bett",
+    "translations": {
+      "vi": "giường ngủ"
+    },
+    "topic": "Wohnen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-547",
+    "source_lang": "de",
+    "word": "bluse",
+    "translations": {
+      "vi": "áo sơ mi nữ"
+    },
+    "topic": "Kleidung",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-548",
+    "source_lang": "de",
+    "word": "pullover",
+    "translations": {
+      "vi": "áo len"
+    },
+    "topic": "Kleidung",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-549",
+    "source_lang": "de",
+    "word": "muetze",
+    "translations": {
+      "vi": "mũ len"
+    },
+    "topic": "Kleidung",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-550",
+    "source_lang": "de",
+    "word": "brille",
+    "translations": {
+      "vi": "mắt kính"
+    },
+    "topic": "Kleidung",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-551",
+    "source_lang": "de",
+    "word": "bahnsteig",
+    "translations": {
+      "vi": "sân ga tàu"
+    },
+    "topic": "Reisen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-552",
+    "source_lang": "de",
+    "word": "fahrrad",
+    "translations": {
+      "vi": "xe đạp"
+    },
+    "topic": "Reisen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-553",
+    "source_lang": "de",
+    "word": "supermarkt",
+    "translations": {
+      "vi": "siêu thị"
+    },
+    "topic": "Einkaufen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-554",
+    "source_lang": "de",
+    "word": "baeckerei",
+    "translations": {
+      "vi": "tiệm bánh mì"
+    },
+    "topic": "Einkaufen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-555",
+    "source_lang": "de",
+    "word": "fleischerei",
+    "translations": {
+      "vi": "tiệm thịt"
+    },
+    "topic": "Einkaufen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-556",
+    "source_lang": "de",
+    "word": "rabatt",
+    "translations": {
+      "vi": "giảm giá"
+    },
+    "topic": "Einkaufen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-557",
+    "source_lang": "de",
+    "word": "bargeld",
+    "translations": {
+      "vi": "tiền mặt"
+    },
+    "topic": "Einkaufen",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-558",
+    "source_lang": "de",
+    "word": "kassierer",
+    "translations": {
+      "vi": "thu ngân"
+    },
+    "topic": "Beruf",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-559",
+    "source_lang": "de",
+    "word": "krankenschwester",
+    "translations": {
+      "vi": "y tá nữ"
+    },
+    "topic": "Beruf",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-560",
+    "source_lang": "de",
+    "word": "koch",
+    "translations": {
+      "vi": "đầu bếp"
+    },
+    "topic": "Beruf",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-561",
+    "source_lang": "de",
+    "word": "kellner",
+    "translations": {
+      "vi": "bồi bàn, phục vụ"
+    },
+    "topic": "Beruf",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-562",
+    "source_lang": "de",
+    "word": "verkaeufer",
+    "translations": {
+      "vi": "nhân viên bán hàng"
+    },
+    "topic": "Beruf",
+    "level": "A1"
+  },
+  {
+    "id": "de-a1-563",
+    "source_lang": "de",
+    "word": "handwerker",
+    "translations": {
+      "vi": "thợ thủ công"
+    },
+    "topic": "Beruf",
+    "level": "A1"
+  },
+  {
+    "id": "de-a2-564",
+    "source_lang": "de",
+    "word": "ausbildung",
+    "translations": {
+      "vi": "học nghề, đào tạo"
+    },
+    "topic": "Beruf",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-565",
+    "source_lang": "de",
+    "word": "kuendigung",
+    "translations": {
+      "vi": "sự sa thải, nghỉ việc"
+    },
+    "topic": "Beruf",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-566",
+    "source_lang": "de",
+    "word": "lebenslauf",
+    "translations": {
+      "vi": "sơ yếu lý lịch (CV)"
+    },
+    "topic": "Beruf",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-567",
+    "source_lang": "de",
+    "word": "zeugnis",
+    "translations": {
+      "vi": "bằng cấp, chứng chỉ"
+    },
+    "topic": "Beruf",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-568",
+    "source_lang": "de",
+    "word": "arbeitsplatz",
+    "translations": {
+      "vi": "nơi làm việc"
+    },
+    "topic": "Beruf",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-569",
+    "source_lang": "de",
+    "word": "ueberstunde",
+    "translations": {
+      "vi": "giờ làm thêm, tăng ca"
+    },
+    "topic": "Beruf",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-570",
+    "source_lang": "de",
+    "word": "teilzeit",
+    "translations": {
+      "vi": "bán thời gian"
+    },
+    "topic": "Beruf",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-571",
+    "source_lang": "de",
+    "word": "vollzeit",
+    "translations": {
+      "vi": "toàn thời gian"
+    },
+    "topic": "Beruf",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-572",
+    "source_lang": "de",
+    "word": "chefin",
+    "translations": {
+      "vi": "sếp nữ, giám đốc"
+    },
+    "topic": "Beruf",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-573",
+    "source_lang": "de",
+    "word": "loesung",
+    "translations": {
+      "vi": "giải pháp"
+    },
+    "topic": "Alltag",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-574",
+    "source_lang": "de",
+    "word": "erlaubnis",
+    "translations": {
+      "vi": "sự cho phép"
+    },
+    "topic": "Alltag",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-575",
+    "source_lang": "de",
+    "word": "abmachung",
+    "translations": {
+      "vi": "thỏa thuận"
+    },
+    "topic": "Alltag",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-576",
+    "source_lang": "de",
+    "word": "beratung",
+    "translations": {
+      "vi": "sự tư vấn"
+    },
+    "topic": "Alltag",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-577",
+    "source_lang": "de",
+    "word": "beschwerde",
+    "translations": {
+      "vi": "sự khiếu nại, phàn nàn"
+    },
+    "topic": "Alltag",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-578",
+    "source_lang": "de",
+    "word": "apotheke",
+    "translations": {
+      "vi": "hiệu thuốc"
+    },
+    "topic": "Gesundheit",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-579",
+    "source_lang": "de",
+    "word": "medikament",
+    "translations": {
+      "vi": "thuốc men"
+    },
+    "topic": "Gesundheit",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-580",
+    "source_lang": "de",
+    "word": "fieber",
+    "translations": {
+      "vi": "cơn sốt"
+    },
+    "topic": "Gesundheit",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-581",
+    "source_lang": "de",
+    "word": "husten",
+    "translations": {
+      "vi": "ho, cơn ho"
+    },
+    "topic": "Gesundheit",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-582",
+    "source_lang": "de",
+    "word": "schnupfen",
+    "translations": {
+      "vi": "sổ mũi, cảm lạnh"
+    },
+    "topic": "Gesundheit",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-583",
+    "source_lang": "de",
+    "word": "rezept",
+    "translations": {
+      "vi": "đơn thuốc / công thức nấu"
+    },
+    "topic": "Gesundheit",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-584",
+    "source_lang": "de",
+    "word": "untersuchung",
+    "translations": {
+      "vi": "sự khám bệnh"
+    },
+    "topic": "Gesundheit",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-585",
+    "source_lang": "de",
+    "word": "krankenwagen",
+    "translations": {
+      "vi": "xe cứu thương"
+    },
+    "topic": "Gesundheit",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-586",
+    "source_lang": "de",
+    "word": "verspaetung",
+    "translations": {
+      "vi": "sự trễ giờ, trễ tàu"
+    },
+    "topic": "Reisen",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-587",
+    "source_lang": "de",
+    "word": "abfahrt",
+    "translations": {
+      "vi": "sự khởi hành"
+    },
+    "topic": "Reisen",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-588",
+    "source_lang": "de",
+    "word": "ankunft",
+    "translations": {
+      "vi": "sự đến nơi"
+    },
+    "topic": "Reisen",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-589",
+    "source_lang": "de",
+    "word": "anschluss",
+    "translations": {
+      "vi": "chuyến xe nối tiếp"
+    },
+    "topic": "Reisen",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-590",
+    "source_lang": "de",
+    "word": "gepaeck",
+    "translations": {
+      "vi": "hành lý"
+    },
+    "topic": "Reisen",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-591",
+    "source_lang": "de",
+    "word": "fahrkarte",
+    "translations": {
+      "vi": "vé tàu, vé xe"
+    },
+    "topic": "Reisen",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-592",
+    "source_lang": "de",
+    "word": "fluggast",
+    "translations": {
+      "vi": "hành khách máy bay"
+    },
+    "topic": "Reisen",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-593",
+    "source_lang": "de",
+    "word": "gewitter",
+    "translations": {
+      "vi": "dông bão, sấm chớp"
+    },
+    "topic": "Natur",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-594",
+    "source_lang": "de",
+    "word": "nachbar",
+    "translations": {
+      "vi": "người hàng xóm"
+    },
+    "topic": "Wohnen",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-595",
+    "source_lang": "de",
+    "word": "mietvertrag",
+    "translations": {
+      "vi": "hợp đồng thuê nhà"
+    },
+    "topic": "Wohnen",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-596",
+    "source_lang": "de",
+    "word": "kaution",
+    "translations": {
+      "vi": "tiền đặt cọc nhà"
+    },
+    "topic": "Wohnen",
+    "level": "A2"
+  },
+  {
+    "id": "de-a2-597",
+    "source_lang": "de",
+    "word": "nebenkosten",
+    "translations": {
+      "vi": "chi phí phụ, tiền dịch vụ"
+    },
+    "topic": "Wohnen",
+    "level": "A2"
+  },
+  {
+    "id": "de-b1-598",
+    "source_lang": "de",
+    "word": "bewerbung",
+    "translations": {
+      "vi": "hồ sơ xin việc"
+    },
+    "topic": "Beruf",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-599",
+    "source_lang": "de",
+    "word": "vorstellungsgespraech",
+    "translations": {
+      "vi": "phỏng vấn xin việc"
+    },
+    "topic": "Beruf",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-600",
+    "source_lang": "de",
+    "word": "weiterbildung",
+    "translations": {
+      "vi": "đào tạo nâng cao"
+    },
+    "topic": "Beruf",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-601",
+    "source_lang": "de",
+    "word": "verhandlung",
+    "translations": {
+      "vi": "cuộc đàm phán"
+    },
+    "topic": "Beruf",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-602",
+    "source_lang": "de",
+    "word": "forderung",
+    "translations": {
+      "vi": "yêu sách, yêu cầu"
+    },
+    "topic": "Beruf",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-603",
+    "source_lang": "de",
+    "word": "arbeitslosigkeit",
+    "translations": {
+      "vi": "tình trạng thất nghiệp"
+    },
+    "topic": "Beruf",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-604",
+    "source_lang": "de",
+    "word": "versicherung",
+    "translations": {
+      "vi": "hợp đồng bảo hiểm"
+    },
+    "topic": "Gesellschaft",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-605",
+    "source_lang": "de",
+    "word": "behoerde",
+    "translations": {
+      "vi": "cơ quan chính quyền"
+    },
+    "topic": "Gesellschaft",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-606",
+    "source_lang": "de",
+    "word": "antrag",
+    "translations": {
+      "vi": "đơn thỉnh cầu, đơn nộp"
+    },
+    "topic": "Gesellschaft",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-607",
+    "source_lang": "de",
+    "word": "steuer",
+    "translations": {
+      "vi": "tiền thuế"
+    },
+    "topic": "Gesellschaft",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-608",
+    "source_lang": "de",
+    "word": "buerger",
+    "translations": {
+      "vi": "công dân"
+    },
+    "topic": "Gesellschaft",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-609",
+    "source_lang": "de",
+    "word": "gesetz",
+    "translations": {
+      "vi": "bộ luật, pháp luật"
+    },
+    "topic": "Gesellschaft",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-610",
+    "source_lang": "de",
+    "word": "abstimmung",
+    "translations": {
+      "vi": "sự bỏ phiếu biểu quyết"
+    },
+    "topic": "Gesellschaft",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-611",
+    "source_lang": "de",
+    "word": "wirtschaft",
+    "translations": {
+      "vi": "nền kinh tế"
+    },
+    "topic": "Wirtschaft",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-612",
+    "source_lang": "de",
+    "word": "produktion",
+    "translations": {
+      "vi": "sự sản xuất"
+    },
+    "topic": "Wirtschaft",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-613",
+    "source_lang": "de",
+    "word": "verbraucher",
+    "translations": {
+      "vi": "người tiêu dùng"
+    },
+    "topic": "Wirtschaft",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-614",
+    "source_lang": "de",
+    "word": "klimawandel",
+    "translations": {
+      "vi": "biến đổi khí hậu"
+    },
+    "topic": "Umwelt",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-615",
+    "source_lang": "de",
+    "word": "erneuerbar",
+    "translations": {
+      "vi": "có thể tái tạo"
+    },
+    "topic": "Umwelt",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-616",
+    "source_lang": "de",
+    "word": "muelltrennung",
+    "translations": {
+      "vi": "sự phân loại rác"
+    },
+    "topic": "Umwelt",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-617",
+    "source_lang": "de",
+    "word": "zuverlaessig",
+    "translations": {
+      "vi": "đáng tin cậy"
+    },
+    "topic": "Eigenschaft",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-618",
+    "source_lang": "de",
+    "word": "puenktlich",
+    "translations": {
+      "vi": "đúng giờ giấc"
+    },
+    "topic": "Eigenschaft",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-619",
+    "source_lang": "de",
+    "word": "geduldig",
+    "translations": {
+      "vi": "kiên trì, kiên nhẫn"
+    },
+    "topic": "Eigenschaft",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-620",
+    "source_lang": "de",
+    "word": "selbststaendig",
+    "translations": {
+      "vi": "tự lập, tự chủ"
+    },
+    "topic": "Eigenschaft",
+    "level": "B1"
+  },
+  {
+    "id": "de-b1-621",
+    "source_lang": "de",
+    "word": "verantwortung",
+    "translations": {
+      "vi": "tinh thần trách nhiệm"
+    },
+    "topic": "Eigenschaft",
+    "level": "B1"
+  },
+  {
+    "id": "de-b2-622",
+    "source_lang": "de",
+    "word": "voraussetzung",
+    "translations": {
+      "vi": "điều kiện tiên quyết"
+    },
+    "topic": "Beruf",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-623",
+    "source_lang": "de",
+    "word": "qualifikation",
+    "translations": {
+      "vi": "trình độ chuyên môn"
+    },
+    "topic": "Beruf",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-624",
+    "source_lang": "de",
+    "word": "fachkraft",
+    "translations": {
+      "vi": "chuyên viên lành nghề"
+    },
+    "topic": "Beruf",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-625",
+    "source_lang": "de",
+    "word": "arbeitsmarkt",
+    "translations": {
+      "vi": "thị trường lao động"
+    },
+    "topic": "Beruf",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-626",
+    "source_lang": "de",
+    "word": "dienstleistung",
+    "translations": {
+      "vi": "dịch vụ thương mại"
+    },
+    "topic": "Wirtschaft",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-627",
+    "source_lang": "de",
+    "word": "krise",
+    "translations": {
+      "vi": "cuộc khủng hoảng"
+    },
+    "topic": "Wirtschaft",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-628",
+    "source_lang": "de",
+    "word": "investition",
+    "translations": {
+      "vi": "khoản đầu tư"
+    },
+    "topic": "Wirtschaft",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-629",
+    "source_lang": "de",
+    "word": "standpunkt",
+    "translations": {
+      "vi": "quan điểm, lập trường"
+    },
+    "topic": "Diskussion",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-630",
+    "source_lang": "de",
+    "word": "widerspruch",
+    "translations": {
+      "vi": "sự mâu thuẫn, phản bác"
+    },
+    "topic": "Diskussion",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-631",
+    "source_lang": "de",
+    "word": "ueberzeugung",
+    "translations": {
+      "vi": "niềm tin, sự thuyết phục"
+    },
+    "topic": "Diskussion",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-632",
+    "source_lang": "de",
+    "word": "begruendung",
+    "translations": {
+      "vi": "lời giải thích, căn cứ"
+    },
+    "topic": "Diskussion",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-633",
+    "source_lang": "de",
+    "word": "massnahme",
+    "translations": {
+      "vi": "biện pháp xử lý"
+    },
+    "topic": "Politik",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-634",
+    "source_lang": "de",
+    "word": "auswirkung",
+    "translations": {
+      "vi": "hệ quả, tác động"
+    },
+    "topic": "Wissenschaft",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-635",
+    "source_lang": "de",
+    "word": "zusammenhang",
+    "translations": {
+      "vi": "mối liên hệ, bối cảnh"
+    },
+    "topic": "Wissenschaft",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-636",
+    "source_lang": "de",
+    "word": "forschung",
+    "translations": {
+      "vi": "công trình nghiên cứu"
+    },
+    "topic": "Wissenschaft",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-637",
+    "source_lang": "de",
+    "word": "digitalisierung",
+    "translations": {
+      "vi": "chuyển đổi kỹ thuật số"
+    },
+    "topic": "Technologie",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-638",
+    "source_lang": "de",
+    "word": "tapfer",
+    "translations": {
+      "vi": "dũng cảm"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-639",
+    "source_lang": "de",
+    "word": "gewaltig",
+    "translations": {
+      "vi": "to lớn, đáng gờm"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-640",
+    "source_lang": "de",
+    "word": "vernichten",
+    "translations": {
+      "vi": "tiêu diệt, hủy diệt"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-641",
+    "source_lang": "de",
+    "word": "ansiedlung",
+    "translations": {
+      "vi": "khu định cư"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-642",
+    "source_lang": "de",
+    "word": "einwohner",
+    "translations": {
+      "vi": "cư dân"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-643",
+    "source_lang": "de",
+    "word": "evakuieren",
+    "translations": {
+      "vi": "sơ tán"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-644",
+    "source_lang": "de",
+    "word": "steil",
+    "translations": {
+      "vi": "dốc, hiểm trở"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-645",
+    "source_lang": "de",
+    "word": "umgebung",
+    "translations": {
+      "vi": "khu vực lân cận"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-646",
+    "source_lang": "de",
+    "word": "ausgraben",
+    "translations": {
+      "vi": "khai quật"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-647",
+    "source_lang": "de",
+    "word": "raetselhaft",
+    "translations": {
+      "vi": "bí ẩn, khó hiểu"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-648",
+    "source_lang": "de",
+    "word": "tiefsee",
+    "translations": {
+      "vi": "vực sâu đại dương"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-649",
+    "source_lang": "de",
+    "word": "eigenschaft",
+    "translations": {
+      "vi": "đặc điểm, tính chất"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-650",
+    "source_lang": "de",
+    "word": "herkunft",
+    "translations": {
+      "vi": "nguồn gốc"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-651",
+    "source_lang": "de",
+    "word": "gruendlich",
+    "translations": {
+      "vi": "kỹ lưỡng, triệt để"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "de-b2-652",
+    "source_lang": "de",
+    "word": "bewaeltigen",
+    "translations": {
+      "vi": "vượt qua, xử lý"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "de-c1-078",
+    "source_lang": "de",
+    "word": "monarch",
+    "translations": {
+      "vi": "quân vương"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "de-c1-079",
+    "source_lang": "de",
+    "word": "tapferkeit",
+    "translations": {
+      "vi": "lòng can đảm"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "de-c1-080",
+    "source_lang": "de",
+    "word": "verwegen",
+    "translations": {
+      "vi": "táo bạo, liều lĩnh"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "de-c1-081",
+    "source_lang": "de",
+    "word": "besiegen",
+    "translations": {
+      "vi": "đánh bại, chinh phục"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "de-c1-082",
+    "source_lang": "de",
+    "word": "geschlossenheit",
+    "translations": {
+      "vi": "sự đoàn kết, thống nhất"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "de-c1-083",
+    "source_lang": "de",
+    "word": "widersacher",
+    "translations": {
+      "vi": "kẻ thù, đối thủ"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "de-c1-084",
+    "source_lang": "de",
+    "word": "unumstoesslich",
+    "translations": {
+      "vi": "không thể lay chuyển"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "de-c1-085",
+    "source_lang": "de",
+    "word": "triumphieren",
+    "translations": {
+      "vi": "chiến thắng vẻ vang"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "de-c2-073",
+    "source_lang": "de",
+    "word": "ehrwuerdig",
+    "translations": {
+      "vi": "đáng kính, cổ kính"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "de-c2-074",
+    "source_lang": "de",
+    "word": "mittelalterlich",
+    "translations": {
+      "vi": "thuộc thời trung cổ"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "de-c2-075",
+    "source_lang": "de",
+    "word": "pilger",
+    "translations": {
+      "vi": "người hành hương"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "de-c2-076",
+    "source_lang": "de",
+    "word": "esoterisch",
+    "translations": {
+      "vi": "bí truyền, thâm sâu"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "de-c2-077",
+    "source_lang": "de",
+    "word": "erforschen",
+    "translations": {
+      "vi": "nghiên cứu sâu, khảo cứu"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "de-c2-078",
+    "source_lang": "de",
+    "word": "zeitgenoessisch",
+    "translations": {
+      "vi": "đương đại"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "de-c2-079",
+    "source_lang": "de",
+    "word": "akademiker",
+    "translations": {
+      "vi": "học giả, nhà nghiên cứu"
+    },
+    "topic": "General",
+    "level": "C2"
   }
 ]
