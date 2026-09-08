@@ -5398,5 +5398,5545 @@
     },
     "topic": "General",
     "level": "C2"
+  },
+  {
+    "id": "en-a1-117",
+    "source_lang": "en",
+    "word": "abroad",
+    "translations": {
+      "vi": "ở nước ngoài"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-118",
+    "source_lang": "en",
+    "word": "absent",
+    "translations": {
+      "vi": "vắng mặt"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-119",
+    "source_lang": "en",
+    "word": "accent",
+    "translations": {
+      "vi": "giọng nói/trọng âm"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-120",
+    "source_lang": "en",
+    "word": "accept",
+    "translations": {
+      "vi": "chấp nhận"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-121",
+    "source_lang": "en",
+    "word": "act",
+    "translations": {
+      "vi": "hành động"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-122",
+    "source_lang": "en",
+    "word": "actress",
+    "translations": {
+      "vi": "diễn viên nữ"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-123",
+    "source_lang": "en",
+    "word": "add",
+    "translations": {
+      "vi": "thêm vào"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-124",
+    "source_lang": "en",
+    "word": "address",
+    "translations": {
+      "vi": "địa chỉ"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-125",
+    "source_lang": "en",
+    "word": "afraid",
+    "translations": {
+      "vi": "sợ hãi"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-126",
+    "source_lang": "en",
+    "word": "age",
+    "translations": {
+      "vi": "tuổi"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-127",
+    "source_lang": "en",
+    "word": "ago",
+    "translations": {
+      "vi": "trước đây"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-128",
+    "source_lang": "en",
+    "word": "agree",
+    "translations": {
+      "vi": "đồng ý"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-129",
+    "source_lang": "en",
+    "word": "aim",
+    "translations": {
+      "vi": "mục tiêu"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-130",
+    "source_lang": "en",
+    "word": "air",
+    "translations": {
+      "vi": "không khí"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-131",
+    "source_lang": "en",
+    "word": "ankle",
+    "translations": {
+      "vi": "mắt cá chân"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-132",
+    "source_lang": "en",
+    "word": "another",
+    "translations": {
+      "vi": "cái khác"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-133",
+    "source_lang": "en",
+    "word": "answer",
+    "translations": {
+      "vi": "câu trả lời"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-134",
+    "source_lang": "en",
+    "word": "arm",
+    "translations": {
+      "vi": "cánh tay"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-135",
+    "source_lang": "en",
+    "word": "arrive",
+    "translations": {
+      "vi": "đến nơi"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-136",
+    "source_lang": "en",
+    "word": "art",
+    "translations": {
+      "vi": "nghệ thuật"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-137",
+    "source_lang": "en",
+    "word": "aunt",
+    "translations": {
+      "vi": "dì/cô"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-138",
+    "source_lang": "en",
+    "word": "baby",
+    "translations": {
+      "vi": "em bé"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-139",
+    "source_lang": "en",
+    "word": "bake",
+    "translations": {
+      "vi": "nướng"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-140",
+    "source_lang": "en",
+    "word": "ball",
+    "translations": {
+      "vi": "quả bóng"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-141",
+    "source_lang": "en",
+    "word": "bath",
+    "translations": {
+      "vi": "bồn tắm"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-142",
+    "source_lang": "en",
+    "word": "bear",
+    "translations": {
+      "vi": "con gấu"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-143",
+    "source_lang": "en",
+    "word": "beard",
+    "translations": {
+      "vi": "râu"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-144",
+    "source_lang": "en",
+    "word": "become",
+    "translations": {
+      "vi": "trở thành"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-145",
+    "source_lang": "en",
+    "word": "beer",
+    "translations": {
+      "vi": "bia"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-146",
+    "source_lang": "en",
+    "word": "begin",
+    "translations": {
+      "vi": "bắt đầu"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-147",
+    "source_lang": "en",
+    "word": "bell",
+    "translations": {
+      "vi": "cái chuông"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-148",
+    "source_lang": "en",
+    "word": "belt",
+    "translations": {
+      "vi": "thắt lưng"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-149",
+    "source_lang": "en",
+    "word": "bicycle",
+    "translations": {
+      "vi": "xe đạp"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-150",
+    "source_lang": "en",
+    "word": "birth",
+    "translations": {
+      "vi": "sự sinh ra"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-151",
+    "source_lang": "en",
+    "word": "biscuit",
+    "translations": {
+      "vi": "bánh quy"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-152",
+    "source_lang": "en",
+    "word": "blank",
+    "translations": {
+      "vi": "trống rỗng"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-153",
+    "source_lang": "en",
+    "word": "blind",
+    "translations": {
+      "vi": "mù"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-154",
+    "source_lang": "en",
+    "word": "boil",
+    "translations": {
+      "vi": "đun sôi"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-155",
+    "source_lang": "en",
+    "word": "bone",
+    "translations": {
+      "vi": "xương"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-156",
+    "source_lang": "en",
+    "word": "boot",
+    "translations": {
+      "vi": "giày ống"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-157",
+    "source_lang": "en",
+    "word": "borrow",
+    "translations": {
+      "vi": "mượn"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-158",
+    "source_lang": "en",
+    "word": "brain",
+    "translations": {
+      "vi": "bộ não"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-159",
+    "source_lang": "en",
+    "word": "branch",
+    "translations": {
+      "vi": "cành cây"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-160",
+    "source_lang": "en",
+    "word": "breakfast",
+    "translations": {
+      "vi": "bữa sáng"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-161",
+    "source_lang": "en",
+    "word": "breast",
+    "translations": {
+      "vi": "ngực"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-162",
+    "source_lang": "en",
+    "word": "brick",
+    "translations": {
+      "vi": "viên gạch"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-163",
+    "source_lang": "en",
+    "word": "bright",
+    "translations": {
+      "vi": "sáng"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-164",
+    "source_lang": "en",
+    "word": "brush",
+    "translations": {
+      "vi": "cái bàn chải"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-165",
+    "source_lang": "en",
+    "word": "build",
+    "translations": {
+      "vi": "xây dựng"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-166",
+    "source_lang": "en",
+    "word": "bury",
+    "translations": {
+      "vi": "chôn"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-167",
+    "source_lang": "en",
+    "word": "bush",
+    "translations": {
+      "vi": "bụi cây"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-168",
+    "source_lang": "en",
+    "word": "butter",
+    "translations": {
+      "vi": "bơ"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-169",
+    "source_lang": "en",
+    "word": "button",
+    "translations": {
+      "vi": "cúc áo"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-170",
+    "source_lang": "en",
+    "word": "cake",
+    "translations": {
+      "vi": "bánh ngọt"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-171",
+    "source_lang": "en",
+    "word": "camp",
+    "translations": {
+      "vi": "cắm trại"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-172",
+    "source_lang": "en",
+    "word": "captain",
+    "translations": {
+      "vi": "thuyền trưởng"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-173",
+    "source_lang": "en",
+    "word": "carpet",
+    "translations": {
+      "vi": "thảm"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-174",
+    "source_lang": "en",
+    "word": "carry",
+    "translations": {
+      "vi": "mang"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-175",
+    "source_lang": "en",
+    "word": "ceiling",
+    "translations": {
+      "vi": "trần nhà"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-176",
+    "source_lang": "en",
+    "word": "chain",
+    "translations": {
+      "vi": "dây xích"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-177",
+    "source_lang": "en",
+    "word": "cheap",
+    "translations": {
+      "vi": "rẻ"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-178",
+    "source_lang": "en",
+    "word": "cheek",
+    "translations": {
+      "vi": "má"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-179",
+    "source_lang": "en",
+    "word": "cheese",
+    "translations": {
+      "vi": "phô mai"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-180",
+    "source_lang": "en",
+    "word": "chest",
+    "translations": {
+      "vi": "ngực/hòm"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-181",
+    "source_lang": "en",
+    "word": "chicken",
+    "translations": {
+      "vi": "con gà"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-182",
+    "source_lang": "en",
+    "word": "choose",
+    "translations": {
+      "vi": "chọn"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-183",
+    "source_lang": "en",
+    "word": "cigarette",
+    "translations": {
+      "vi": "điếu thuốc lá"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-184",
+    "source_lang": "en",
+    "word": "climb",
+    "translations": {
+      "vi": "leo trèo"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-185",
+    "source_lang": "en",
+    "word": "cloth",
+    "translations": {
+      "vi": "vải"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-186",
+    "source_lang": "en",
+    "word": "cloud",
+    "translations": {
+      "vi": "đám mây"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-187",
+    "source_lang": "en",
+    "word": "coal",
+    "translations": {
+      "vi": "than đá"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-188",
+    "source_lang": "en",
+    "word": "coast",
+    "translations": {
+      "vi": "bờ biển"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-189",
+    "source_lang": "en",
+    "word": "coin",
+    "translations": {
+      "vi": "đồng xu"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a2-098",
+    "source_lang": "en",
+    "word": "combine",
+    "translations": {
+      "vi": "kết hợp"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-099",
+    "source_lang": "en",
+    "word": "comfort",
+    "translations": {
+      "vi": "sự thoải mái"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-100",
+    "source_lang": "en",
+    "word": "command",
+    "translations": {
+      "vi": "ra lệnh"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-101",
+    "source_lang": "en",
+    "word": "compare",
+    "translations": {
+      "vi": "so sánh"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-102",
+    "source_lang": "en",
+    "word": "complain",
+    "translations": {
+      "vi": "phàn nàn"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-103",
+    "source_lang": "en",
+    "word": "complete",
+    "translations": {
+      "vi": "hoàn thành"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-104",
+    "source_lang": "en",
+    "word": "confuse",
+    "translations": {
+      "vi": "làm rối"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-105",
+    "source_lang": "en",
+    "word": "connect",
+    "translations": {
+      "vi": "kết nối"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-106",
+    "source_lang": "en",
+    "word": "consider",
+    "translations": {
+      "vi": "xem xét"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-107",
+    "source_lang": "en",
+    "word": "contain",
+    "translations": {
+      "vi": "chứa đựng"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-108",
+    "source_lang": "en",
+    "word": "continue",
+    "translations": {
+      "vi": "tiếp tục"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-109",
+    "source_lang": "en",
+    "word": "control",
+    "translations": {
+      "vi": "kiểm soát"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-110",
+    "source_lang": "en",
+    "word": "cook",
+    "translations": {
+      "vi": "nấu ăn"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-111",
+    "source_lang": "en",
+    "word": "copy",
+    "translations": {
+      "vi": "sao chép"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-112",
+    "source_lang": "en",
+    "word": "correct",
+    "translations": {
+      "vi": "đúng"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-113",
+    "source_lang": "en",
+    "word": "cottage",
+    "translations": {
+      "vi": "nhà tranh"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-114",
+    "source_lang": "en",
+    "word": "cough",
+    "translations": {
+      "vi": "ho"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-115",
+    "source_lang": "en",
+    "word": "count",
+    "translations": {
+      "vi": "đếm"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-116",
+    "source_lang": "en",
+    "word": "courage",
+    "translations": {
+      "vi": "lòng dũng cảm"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-117",
+    "source_lang": "en",
+    "word": "cousin",
+    "translations": {
+      "vi": "anh chị em họ"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-118",
+    "source_lang": "en",
+    "word": "cream",
+    "translations": {
+      "vi": "kem"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-119",
+    "source_lang": "en",
+    "word": "crime",
+    "translations": {
+      "vi": "tội phạm"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-120",
+    "source_lang": "en",
+    "word": "cross",
+    "translations": {
+      "vi": "băng qua"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-121",
+    "source_lang": "en",
+    "word": "crowd",
+    "translations": {
+      "vi": "đám đông"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-122",
+    "source_lang": "en",
+    "word": "cruel",
+    "translations": {
+      "vi": "tàn nhẫn"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-123",
+    "source_lang": "en",
+    "word": "crush",
+    "translations": {
+      "vi": "nghiền nát"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-124",
+    "source_lang": "en",
+    "word": "cup",
+    "translations": {
+      "vi": "cái cốc"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-125",
+    "source_lang": "en",
+    "word": "cupboard",
+    "translations": {
+      "vi": "tủ chén"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-126",
+    "source_lang": "en",
+    "word": "curl",
+    "translations": {
+      "vi": "cuộn lại"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-127",
+    "source_lang": "en",
+    "word": "curtain",
+    "translations": {
+      "vi": "rèm cửa"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-128",
+    "source_lang": "en",
+    "word": "damage",
+    "translations": {
+      "vi": "thiệt hại"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-129",
+    "source_lang": "en",
+    "word": "damp",
+    "translations": {
+      "vi": "ẩm ướt"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-130",
+    "source_lang": "en",
+    "word": "decade",
+    "translations": {
+      "vi": "thập kỷ"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-131",
+    "source_lang": "en",
+    "word": "decide",
+    "translations": {
+      "vi": "quyết định"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-132",
+    "source_lang": "en",
+    "word": "decorate",
+    "translations": {
+      "vi": "trang trí"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-133",
+    "source_lang": "en",
+    "word": "delay",
+    "translations": {
+      "vi": "trì hoãn"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-134",
+    "source_lang": "en",
+    "word": "deliver",
+    "translations": {
+      "vi": "giao hàng"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-135",
+    "source_lang": "en",
+    "word": "dentist",
+    "translations": {
+      "vi": "nha sĩ"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-136",
+    "source_lang": "en",
+    "word": "deny",
+    "translations": {
+      "vi": "phủ nhận"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-137",
+    "source_lang": "en",
+    "word": "depend",
+    "translations": {
+      "vi": "phụ thuộc"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-138",
+    "source_lang": "en",
+    "word": "describe",
+    "translations": {
+      "vi": "miêu tả"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-139",
+    "source_lang": "en",
+    "word": "deserve",
+    "translations": {
+      "vi": "xứng đáng"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-140",
+    "source_lang": "en",
+    "word": "design",
+    "translations": {
+      "vi": "thiết kế"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-141",
+    "source_lang": "en",
+    "word": "desk",
+    "translations": {
+      "vi": "bàn học/làm việc"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-142",
+    "source_lang": "en",
+    "word": "destroy",
+    "translations": {
+      "vi": "phá hủy"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-143",
+    "source_lang": "en",
+    "word": "develop",
+    "translations": {
+      "vi": "phát triển"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-144",
+    "source_lang": "en",
+    "word": "diamond",
+    "translations": {
+      "vi": "kim cương"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-145",
+    "source_lang": "en",
+    "word": "diary",
+    "translations": {
+      "vi": "nhật ký"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-146",
+    "source_lang": "en",
+    "word": "die",
+    "translations": {
+      "vi": "chết"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-147",
+    "source_lang": "en",
+    "word": "dig",
+    "translations": {
+      "vi": "đào"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-148",
+    "source_lang": "en",
+    "word": "direct",
+    "translations": {
+      "vi": "trực tiếp"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-149",
+    "source_lang": "en",
+    "word": "dirt",
+    "translations": {
+      "vi": "bụi bẩn"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-150",
+    "source_lang": "en",
+    "word": "disagree",
+    "translations": {
+      "vi": "không đồng ý"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-151",
+    "source_lang": "en",
+    "word": "disappear",
+    "translations": {
+      "vi": "biến mất"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-152",
+    "source_lang": "en",
+    "word": "discover",
+    "translations": {
+      "vi": "khám phá"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-153",
+    "source_lang": "en",
+    "word": "dish",
+    "translations": {
+      "vi": "cái đĩa"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-154",
+    "source_lang": "en",
+    "word": "divide",
+    "translations": {
+      "vi": "chia"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-155",
+    "source_lang": "en",
+    "word": "doubt",
+    "translations": {
+      "vi": "nghi ngờ"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-156",
+    "source_lang": "en",
+    "word": "dozen",
+    "translations": {
+      "vi": "một tá"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-157",
+    "source_lang": "en",
+    "word": "drag",
+    "translations": {
+      "vi": "kéo lê"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-158",
+    "source_lang": "en",
+    "word": "drawer",
+    "translations": {
+      "vi": "ngăn kéo"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-159",
+    "source_lang": "en",
+    "word": "dress",
+    "translations": {
+      "vi": "váy/mặc đồ"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-160",
+    "source_lang": "en",
+    "word": "drum",
+    "translations": {
+      "vi": "cái trống"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-161",
+    "source_lang": "en",
+    "word": "dust",
+    "translations": {
+      "vi": "bụi"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-162",
+    "source_lang": "en",
+    "word": "earn",
+    "translations": {
+      "vi": "kiếm tiền"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-163",
+    "source_lang": "en",
+    "word": "edge",
+    "translations": {
+      "vi": "cạnh, mép"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-164",
+    "source_lang": "en",
+    "word": "effort",
+    "translations": {
+      "vi": "nỗ lực"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-165",
+    "source_lang": "en",
+    "word": "elbow",
+    "translations": {
+      "vi": "khuỷu tay"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-166",
+    "source_lang": "en",
+    "word": "elect",
+    "translations": {
+      "vi": "bầu chọn"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-167",
+    "source_lang": "en",
+    "word": "electric",
+    "translations": {
+      "vi": "thuộc điện"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-168",
+    "source_lang": "en",
+    "word": "employ",
+    "translations": {
+      "vi": "thuê mướn"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-169",
+    "source_lang": "en",
+    "word": "empty",
+    "translations": {
+      "vi": "rỗng"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-170",
+    "source_lang": "en",
+    "word": "enemy",
+    "translations": {
+      "vi": "kẻ thù"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-171",
+    "source_lang": "en",
+    "word": "engine",
+    "translations": {
+      "vi": "động cơ"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-172",
+    "source_lang": "en",
+    "word": "enjoy",
+    "translations": {
+      "vi": "tận hưởng"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-173",
+    "source_lang": "en",
+    "word": "enormous",
+    "translations": {
+      "vi": "khổng lồ"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-b1-091",
+    "source_lang": "en",
+    "word": "ensure",
+    "translations": {
+      "vi": "đảm bảo"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-092",
+    "source_lang": "en",
+    "word": "entertain",
+    "translations": {
+      "vi": "giải trí"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-093",
+    "source_lang": "en",
+    "word": "entire",
+    "translations": {
+      "vi": "toàn bộ"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-094",
+    "source_lang": "en",
+    "word": "equal",
+    "translations": {
+      "vi": "bình đẳng"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-095",
+    "source_lang": "en",
+    "word": "escape",
+    "translations": {
+      "vi": "trốn thoát"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-096",
+    "source_lang": "en",
+    "word": "essential",
+    "translations": {
+      "vi": "thiết yếu"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-097",
+    "source_lang": "en",
+    "word": "estimate",
+    "translations": {
+      "vi": "ước tính"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-098",
+    "source_lang": "en",
+    "word": "evidence",
+    "translations": {
+      "vi": "bằng chứng"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-099",
+    "source_lang": "en",
+    "word": "evil",
+    "translations": {
+      "vi": "xấu xa"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-100",
+    "source_lang": "en",
+    "word": "exact",
+    "translations": {
+      "vi": "chính xác"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-101",
+    "source_lang": "en",
+    "word": "examine",
+    "translations": {
+      "vi": "kiểm tra"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-102",
+    "source_lang": "en",
+    "word": "excellent",
+    "translations": {
+      "vi": "xuất sắc"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-103",
+    "source_lang": "en",
+    "word": "exchange",
+    "translations": {
+      "vi": "trao đổi"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-104",
+    "source_lang": "en",
+    "word": "exist",
+    "translations": {
+      "vi": "tồn tại"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-105",
+    "source_lang": "en",
+    "word": "expand",
+    "translations": {
+      "vi": "mở rộng"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-106",
+    "source_lang": "en",
+    "word": "expect",
+    "translations": {
+      "vi": "mong đợi"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-107",
+    "source_lang": "en",
+    "word": "experiment",
+    "translations": {
+      "vi": "thí nghiệm"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-108",
+    "source_lang": "en",
+    "word": "explain",
+    "translations": {
+      "vi": "giải thích"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-109",
+    "source_lang": "en",
+    "word": "explode",
+    "translations": {
+      "vi": "phát nổ"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-110",
+    "source_lang": "en",
+    "word": "explore",
+    "translations": {
+      "vi": "khám phá"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-111",
+    "source_lang": "en",
+    "word": "export",
+    "translations": {
+      "vi": "xuất khẩu"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-112",
+    "source_lang": "en",
+    "word": "expose",
+    "translations": {
+      "vi": "phơi bày"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-113",
+    "source_lang": "en",
+    "word": "extend",
+    "translations": {
+      "vi": "kéo dài"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-114",
+    "source_lang": "en",
+    "word": "extreme",
+    "translations": {
+      "vi": "cực đoan"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-115",
+    "source_lang": "en",
+    "word": "fail",
+    "translations": {
+      "vi": "thất bại"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-116",
+    "source_lang": "en",
+    "word": "faint",
+    "translations": {
+      "vi": "ngất xỉu"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-117",
+    "source_lang": "en",
+    "word": "fair",
+    "translations": {
+      "vi": "công bằng"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-118",
+    "source_lang": "en",
+    "word": "faith",
+    "translations": {
+      "vi": "niềm tin"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-119",
+    "source_lang": "en",
+    "word": "familiar",
+    "translations": {
+      "vi": "quen thuộc"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-120",
+    "source_lang": "en",
+    "word": "fasten",
+    "translations": {
+      "vi": "cài chặt"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-121",
+    "source_lang": "en",
+    "word": "fault",
+    "translations": {
+      "vi": "lỗi lầm"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-122",
+    "source_lang": "en",
+    "word": "favour",
+    "translations": {
+      "vi": "ân huệ"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-123",
+    "source_lang": "en",
+    "word": "fear",
+    "translations": {
+      "vi": "nỗi sợ"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-124",
+    "source_lang": "en",
+    "word": "feature",
+    "translations": {
+      "vi": "đặc điểm"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-125",
+    "source_lang": "en",
+    "word": "fence",
+    "translations": {
+      "vi": "hàng rào"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-126",
+    "source_lang": "en",
+    "word": "fever",
+    "translations": {
+      "vi": "cơn sốt"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-127",
+    "source_lang": "en",
+    "word": "firm",
+    "translations": {
+      "vi": "vững chắc"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-128",
+    "source_lang": "en",
+    "word": "flame",
+    "translations": {
+      "vi": "ngọn lửa"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-129",
+    "source_lang": "en",
+    "word": "float",
+    "translations": {
+      "vi": "nổi"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-130",
+    "source_lang": "en",
+    "word": "fold",
+    "translations": {
+      "vi": "gấp lại"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-131",
+    "source_lang": "en",
+    "word": "forecast",
+    "translations": {
+      "vi": "dự báo"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-132",
+    "source_lang": "en",
+    "word": "foreign",
+    "translations": {
+      "vi": "nước ngoài"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-133",
+    "source_lang": "en",
+    "word": "forgive",
+    "translations": {
+      "vi": "tha thứ"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-134",
+    "source_lang": "en",
+    "word": "fortune",
+    "translations": {
+      "vi": "vận may"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-135",
+    "source_lang": "en",
+    "word": "found",
+    "translations": {
+      "vi": "thành lập"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-136",
+    "source_lang": "en",
+    "word": "frame",
+    "translations": {
+      "vi": "khung"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-137",
+    "source_lang": "en",
+    "word": "freeze",
+    "translations": {
+      "vi": "đóng băng"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-138",
+    "source_lang": "en",
+    "word": "frequent",
+    "translations": {
+      "vi": "thường xuyên"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-139",
+    "source_lang": "en",
+    "word": "frighten",
+    "translations": {
+      "vi": "làm sợ hãi"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-140",
+    "source_lang": "en",
+    "word": "fry",
+    "translations": {
+      "vi": "chiên"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-141",
+    "source_lang": "en",
+    "word": "fund",
+    "translations": {
+      "vi": "quỹ tiền"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-142",
+    "source_lang": "en",
+    "word": "gap",
+    "translations": {
+      "vi": "khoảng trống"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-143",
+    "source_lang": "en",
+    "word": "gather",
+    "translations": {
+      "vi": "tập hợp"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-144",
+    "source_lang": "en",
+    "word": "generous",
+    "translations": {
+      "vi": "hào phóng"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-145",
+    "source_lang": "en",
+    "word": "gentle",
+    "translations": {
+      "vi": "dịu dàng"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-146",
+    "source_lang": "en",
+    "word": "genuine",
+    "translations": {
+      "vi": "chân thật"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-147",
+    "source_lang": "en",
+    "word": "glue",
+    "translations": {
+      "vi": "keo dán"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-148",
+    "source_lang": "en",
+    "word": "goal",
+    "translations": {
+      "vi": "mục tiêu"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-149",
+    "source_lang": "en",
+    "word": "govern",
+    "translations": {
+      "vi": "cai trị"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-150",
+    "source_lang": "en",
+    "word": "grab",
+    "translations": {
+      "vi": "chộp lấy"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-151",
+    "source_lang": "en",
+    "word": "grade",
+    "translations": {
+      "vi": "cấp độ, điểm số"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-152",
+    "source_lang": "en",
+    "word": "grain",
+    "translations": {
+      "vi": "hạt ngũ cốc"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-153",
+    "source_lang": "en",
+    "word": "grand",
+    "translations": {
+      "vi": "hoành tráng"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-154",
+    "source_lang": "en",
+    "word": "grateful",
+    "translations": {
+      "vi": "biết ơn"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-155",
+    "source_lang": "en",
+    "word": "guarantee",
+    "translations": {
+      "vi": "bảo đảm"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-156",
+    "source_lang": "en",
+    "word": "guilty",
+    "translations": {
+      "vi": "có tội"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-157",
+    "source_lang": "en",
+    "word": "habit",
+    "translations": {
+      "vi": "thói quen"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-a1-190",
+    "source_lang": "en",
+    "word": "banana",
+    "translations": {
+      "vi": "quả chuối"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-191",
+    "source_lang": "en",
+    "word": "orange",
+    "translations": {
+      "vi": "quả cam"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-192",
+    "source_lang": "en",
+    "word": "rice",
+    "translations": {
+      "vi": "cơm/gạo"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-193",
+    "source_lang": "en",
+    "word": "egg",
+    "translations": {
+      "vi": "trứng"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-194",
+    "source_lang": "en",
+    "word": "bed",
+    "translations": {
+      "vi": "giường"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-195",
+    "source_lang": "en",
+    "word": "bike",
+    "translations": {
+      "vi": "xe đạp"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-196",
+    "source_lang": "en",
+    "word": "red",
+    "translations": {
+      "vi": "màu đỏ"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-197",
+    "source_lang": "en",
+    "word": "blue",
+    "translations": {
+      "vi": "màu xanh dương"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-198",
+    "source_lang": "en",
+    "word": "green",
+    "translations": {
+      "vi": "màu xanh lá"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-199",
+    "source_lang": "en",
+    "word": "yellow",
+    "translations": {
+      "vi": "màu vàng"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-200",
+    "source_lang": "en",
+    "word": "black",
+    "translations": {
+      "vi": "màu đen"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-201",
+    "source_lang": "en",
+    "word": "white",
+    "translations": {
+      "vi": "màu trắng"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-202",
+    "source_lang": "en",
+    "word": "big",
+    "translations": {
+      "vi": "to"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-203",
+    "source_lang": "en",
+    "word": "tall",
+    "translations": {
+      "vi": "cao"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-204",
+    "source_lang": "en",
+    "word": "short",
+    "translations": {
+      "vi": "thấp/ngắn"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-205",
+    "source_lang": "en",
+    "word": "cow",
+    "translations": {
+      "vi": "con bò"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-206",
+    "source_lang": "en",
+    "word": "pen",
+    "translations": {
+      "vi": "cây bút"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-207",
+    "source_lang": "en",
+    "word": "bag",
+    "translations": {
+      "vi": "cái túi"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-208",
+    "source_lang": "en",
+    "word": "clock",
+    "translations": {
+      "vi": "đồng hồ"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-209",
+    "source_lang": "en",
+    "word": "key",
+    "translations": {
+      "vi": "chìa khóa"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-210",
+    "source_lang": "en",
+    "word": "park",
+    "translations": {
+      "vi": "công viên"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-211",
+    "source_lang": "en",
+    "word": "hot",
+    "translations": {
+      "vi": "nóng"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-212",
+    "source_lang": "en",
+    "word": "cold",
+    "translations": {
+      "vi": "lạnh"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-213",
+    "source_lang": "en",
+    "word": "run",
+    "translations": {
+      "vi": "chạy"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-214",
+    "source_lang": "en",
+    "word": "walk",
+    "translations": {
+      "vi": "đi bộ"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-215",
+    "source_lang": "en",
+    "word": "eat",
+    "translations": {
+      "vi": "ăn"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-216",
+    "source_lang": "en",
+    "word": "sit",
+    "translations": {
+      "vi": "ngồi"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-217",
+    "source_lang": "en",
+    "word": "stand",
+    "translations": {
+      "vi": "đứng"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-218",
+    "source_lang": "en",
+    "word": "wash",
+    "translations": {
+      "vi": "rửa"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-219",
+    "source_lang": "en",
+    "word": "clean",
+    "translations": {
+      "vi": "dọn dẹp"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-220",
+    "source_lang": "en",
+    "word": "buy",
+    "translations": {
+      "vi": "mua"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-221",
+    "source_lang": "en",
+    "word": "sell",
+    "translations": {
+      "vi": "bán"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-222",
+    "source_lang": "en",
+    "word": "pay",
+    "translations": {
+      "vi": "trả tiền"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-223",
+    "source_lang": "en",
+    "word": "sad",
+    "translations": {
+      "vi": "buồn"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-224",
+    "source_lang": "en",
+    "word": "angry",
+    "translations": {
+      "vi": "tức giận"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-225",
+    "source_lang": "en",
+    "word": "tired",
+    "translations": {
+      "vi": "mệt mỏi"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-226",
+    "source_lang": "en",
+    "word": "hungry",
+    "translations": {
+      "vi": "đói"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-227",
+    "source_lang": "en",
+    "word": "thirsty",
+    "translations": {
+      "vi": "khát"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-228",
+    "source_lang": "en",
+    "word": "sick",
+    "translations": {
+      "vi": "ốm"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-229",
+    "source_lang": "en",
+    "word": "healthy",
+    "translations": {
+      "vi": "khỏe mạnh"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-230",
+    "source_lang": "en",
+    "word": "young",
+    "translations": {
+      "vi": "trẻ"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a1-231",
+    "source_lang": "en",
+    "word": "old",
+    "translations": {
+      "vi": "già"
+    },
+    "topic": "General",
+    "level": "A1"
+  },
+  {
+    "id": "en-a2-174",
+    "source_lang": "en",
+    "word": "bathroom",
+    "translations": {
+      "vi": "phòng tắm"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-175",
+    "source_lang": "en",
+    "word": "roof",
+    "translations": {
+      "vi": "mái nhà"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-176",
+    "source_lang": "en",
+    "word": "neighbor",
+    "translations": {
+      "vi": "hàng xóm"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-177",
+    "source_lang": "en",
+    "word": "visitor",
+    "translations": {
+      "vi": "khách thăm"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-178",
+    "source_lang": "en",
+    "word": "waiter",
+    "translations": {
+      "vi": "người phục vụ"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-179",
+    "source_lang": "en",
+    "word": "hotel",
+    "translations": {
+      "vi": "khách sạn"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-180",
+    "source_lang": "en",
+    "word": "luggage",
+    "translations": {
+      "vi": "hành lý"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-181",
+    "source_lang": "en",
+    "word": "passport",
+    "translations": {
+      "vi": "hộ chiếu"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-182",
+    "source_lang": "en",
+    "word": "lend",
+    "translations": {
+      "vi": "cho mượn"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-183",
+    "source_lang": "en",
+    "word": "return",
+    "translations": {
+      "vi": "trả lại"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-184",
+    "source_lang": "en",
+    "word": "repair",
+    "translations": {
+      "vi": "sửa chữa"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-185",
+    "source_lang": "en",
+    "word": "break",
+    "translations": {
+      "vi": "làm vỡ"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-186",
+    "source_lang": "en",
+    "word": "invite",
+    "translations": {
+      "vi": "mời"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-187",
+    "source_lang": "en",
+    "word": "refuse",
+    "translations": {
+      "vi": "từ chối"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-188",
+    "source_lang": "en",
+    "word": "invent",
+    "translations": {
+      "vi": "phát minh"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-189",
+    "source_lang": "en",
+    "word": "exercise",
+    "translations": {
+      "vi": "tập thể dục"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-190",
+    "source_lang": "en",
+    "word": "relax",
+    "translations": {
+      "vi": "thư giãn"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-191",
+    "source_lang": "en",
+    "word": "practice",
+    "translations": {
+      "vi": "luyện tập"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-192",
+    "source_lang": "en",
+    "word": "improve",
+    "translations": {
+      "vi": "cải thiện"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-193",
+    "source_lang": "en",
+    "word": "achieve",
+    "translations": {
+      "vi": "đạt được"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-194",
+    "source_lang": "en",
+    "word": "nervous",
+    "translations": {
+      "vi": "lo lắng"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-195",
+    "source_lang": "en",
+    "word": "excited",
+    "translations": {
+      "vi": "hào hứng"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-196",
+    "source_lang": "en",
+    "word": "bored",
+    "translations": {
+      "vi": "chán"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-197",
+    "source_lang": "en",
+    "word": "confused",
+    "translations": {
+      "vi": "bối rối"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-198",
+    "source_lang": "en",
+    "word": "surprised",
+    "translations": {
+      "vi": "ngạc nhiên"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-199",
+    "source_lang": "en",
+    "word": "polite",
+    "translations": {
+      "vi": "lịch sự"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-200",
+    "source_lang": "en",
+    "word": "rude",
+    "translations": {
+      "vi": "thô lỗ"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-201",
+    "source_lang": "en",
+    "word": "honest",
+    "translations": {
+      "vi": "trung thực"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-202",
+    "source_lang": "en",
+    "word": "shy",
+    "translations": {
+      "vi": "nhút nhát"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-203",
+    "source_lang": "en",
+    "word": "confident",
+    "translations": {
+      "vi": "tự tin"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-204",
+    "source_lang": "en",
+    "word": "crowded",
+    "translations": {
+      "vi": "đông đúc"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-205",
+    "source_lang": "en",
+    "word": "quiet",
+    "translations": {
+      "vi": "yên tĩnh"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-206",
+    "source_lang": "en",
+    "word": "noisy",
+    "translations": {
+      "vi": "ồn ào"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-207",
+    "source_lang": "en",
+    "word": "narrow",
+    "translations": {
+      "vi": "hẹp"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-208",
+    "source_lang": "en",
+    "word": "wide",
+    "translations": {
+      "vi": "rộng"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-209",
+    "source_lang": "en",
+    "word": "deep",
+    "translations": {
+      "vi": "sâu"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-210",
+    "source_lang": "en",
+    "word": "storm",
+    "translations": {
+      "vi": "cơn bão"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-211",
+    "source_lang": "en",
+    "word": "size",
+    "translations": {
+      "vi": "kích cỡ"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-212",
+    "source_lang": "en",
+    "word": "distance",
+    "translations": {
+      "vi": "khoảng cách"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-213",
+    "source_lang": "en",
+    "word": "skill",
+    "translations": {
+      "vi": "kỹ năng"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-214",
+    "source_lang": "en",
+    "word": "talent",
+    "translations": {
+      "vi": "tài năng"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-215",
+    "source_lang": "en",
+    "word": "career",
+    "translations": {
+      "vi": "sự nghiệp"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-216",
+    "source_lang": "en",
+    "word": "salary",
+    "translations": {
+      "vi": "tiền lương"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-217",
+    "source_lang": "en",
+    "word": "interview",
+    "translations": {
+      "vi": "phỏng vấn"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-218",
+    "source_lang": "en",
+    "word": "appointment",
+    "translations": {
+      "vi": "cuộc hẹn"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-219",
+    "source_lang": "en",
+    "word": "schedule",
+    "translations": {
+      "vi": "lịch trình"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-220",
+    "source_lang": "en",
+    "word": "ceremony",
+    "translations": {
+      "vi": "buổi lễ"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-221",
+    "source_lang": "en",
+    "word": "wedding",
+    "translations": {
+      "vi": "đám cưới"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-222",
+    "source_lang": "en",
+    "word": "birthday",
+    "translations": {
+      "vi": "sinh nhật"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-223",
+    "source_lang": "en",
+    "word": "anniversary",
+    "translations": {
+      "vi": "ngày kỷ niệm"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-224",
+    "source_lang": "en",
+    "word": "recipe",
+    "translations": {
+      "vi": "công thức nấu ăn"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-225",
+    "source_lang": "en",
+    "word": "ingredient",
+    "translations": {
+      "vi": "nguyên liệu"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-226",
+    "source_lang": "en",
+    "word": "flavor",
+    "translations": {
+      "vi": "hương vị"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-227",
+    "source_lang": "en",
+    "word": "portion",
+    "translations": {
+      "vi": "khẩu phần"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-a2-228",
+    "source_lang": "en",
+    "word": "diet",
+    "translations": {
+      "vi": "chế độ ăn"
+    },
+    "topic": "General",
+    "level": "A2"
+  },
+  {
+    "id": "en-b1-158",
+    "source_lang": "en",
+    "word": "challenge",
+    "translations": {
+      "vi": "thử thách"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-159",
+    "source_lang": "en",
+    "word": "obstacle",
+    "translations": {
+      "vi": "trở ngại"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-160",
+    "source_lang": "en",
+    "word": "progress",
+    "translations": {
+      "vi": "tiến bộ"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-161",
+    "source_lang": "en",
+    "word": "responsibility",
+    "translations": {
+      "vi": "trách nhiệm"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-162",
+    "source_lang": "en",
+    "word": "independence",
+    "translations": {
+      "vi": "sự độc lập"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-163",
+    "source_lang": "en",
+    "word": "ambition",
+    "translations": {
+      "vi": "tham vọng"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-164",
+    "source_lang": "en",
+    "word": "motivation",
+    "translations": {
+      "vi": "động lực"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-165",
+    "source_lang": "en",
+    "word": "recycling",
+    "translations": {
+      "vi": "tái chế"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-166",
+    "source_lang": "en",
+    "word": "resource",
+    "translations": {
+      "vi": "tài nguyên"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-167",
+    "source_lang": "en",
+    "word": "climate",
+    "translations": {
+      "vi": "khí hậu"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-168",
+    "source_lang": "en",
+    "word": "economy",
+    "translations": {
+      "vi": "kinh tế"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-169",
+    "source_lang": "en",
+    "word": "industry",
+    "translations": {
+      "vi": "ngành công nghiệp"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-170",
+    "source_lang": "en",
+    "word": "employment",
+    "translations": {
+      "vi": "việc làm"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-171",
+    "source_lang": "en",
+    "word": "unemployment",
+    "translations": {
+      "vi": "thất nghiệp"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-172",
+    "source_lang": "en",
+    "word": "profit",
+    "translations": {
+      "vi": "lợi nhuận"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-173",
+    "source_lang": "en",
+    "word": "tradition",
+    "translations": {
+      "vi": "truyền thống"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-174",
+    "source_lang": "en",
+    "word": "custom",
+    "translations": {
+      "vi": "phong tục"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-175",
+    "source_lang": "en",
+    "word": "generation",
+    "translations": {
+      "vi": "thế hệ"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-176",
+    "source_lang": "en",
+    "word": "politics",
+    "translations": {
+      "vi": "chính trị"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-177",
+    "source_lang": "en",
+    "word": "election",
+    "translations": {
+      "vi": "cuộc bầu cử"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-178",
+    "source_lang": "en",
+    "word": "citizen",
+    "translations": {
+      "vi": "công dân"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-179",
+    "source_lang": "en",
+    "word": "invention",
+    "translations": {
+      "vi": "phát minh"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-180",
+    "source_lang": "en",
+    "word": "device",
+    "translations": {
+      "vi": "thiết bị"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-181",
+    "source_lang": "en",
+    "word": "software",
+    "translations": {
+      "vi": "phần mềm"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-182",
+    "source_lang": "en",
+    "word": "conversation",
+    "translations": {
+      "vi": "cuộc trò chuyện"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-183",
+    "source_lang": "en",
+    "word": "negotiation",
+    "translations": {
+      "vi": "đàm phán"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-184",
+    "source_lang": "en",
+    "word": "prevent",
+    "translations": {
+      "vi": "ngăn ngừa"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-185",
+    "source_lang": "en",
+    "word": "avoid",
+    "translations": {
+      "vi": "tránh"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-186",
+    "source_lang": "en",
+    "word": "reduce",
+    "translations": {
+      "vi": "giảm bớt"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-187",
+    "source_lang": "en",
+    "word": "increase",
+    "translations": {
+      "vi": "tăng lên"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-188",
+    "source_lang": "en",
+    "word": "reflect",
+    "translations": {
+      "vi": "suy ngẫm"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-189",
+    "source_lang": "en",
+    "word": "assume",
+    "translations": {
+      "vi": "giả định"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-190",
+    "source_lang": "en",
+    "word": "suspect",
+    "translations": {
+      "vi": "nghi ngờ"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-191",
+    "source_lang": "en",
+    "word": "convince",
+    "translations": {
+      "vi": "thuyết phục"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-192",
+    "source_lang": "en",
+    "word": "persuade",
+    "translations": {
+      "vi": "thuyết phục"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-193",
+    "source_lang": "en",
+    "word": "encourage",
+    "translations": {
+      "vi": "khuyến khích"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-194",
+    "source_lang": "en",
+    "word": "discourage",
+    "translations": {
+      "vi": "làm nản lòng"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-195",
+    "source_lang": "en",
+    "word": "support",
+    "translations": {
+      "vi": "hỗ trợ"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-196",
+    "source_lang": "en",
+    "word": "oppose",
+    "translations": {
+      "vi": "phản đối"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-197",
+    "source_lang": "en",
+    "word": "criticize",
+    "translations": {
+      "vi": "chỉ trích"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-198",
+    "source_lang": "en",
+    "word": "praise",
+    "translations": {
+      "vi": "khen ngợi"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-199",
+    "source_lang": "en",
+    "word": "blame",
+    "translations": {
+      "vi": "đổ lỗi"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-200",
+    "source_lang": "en",
+    "word": "apologize",
+    "translations": {
+      "vi": "xin lỗi"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-201",
+    "source_lang": "en",
+    "word": "reliable",
+    "translations": {
+      "vi": "đáng tin cậy"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-202",
+    "source_lang": "en",
+    "word": "flexible",
+    "translations": {
+      "vi": "linh hoạt"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-203",
+    "source_lang": "en",
+    "word": "strict",
+    "translations": {
+      "vi": "nghiêm khắc"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-204",
+    "source_lang": "en",
+    "word": "selfish",
+    "translations": {
+      "vi": "ích kỷ"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-205",
+    "source_lang": "en",
+    "word": "curious",
+    "translations": {
+      "vi": "tò mò"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-206",
+    "source_lang": "en",
+    "word": "cautious",
+    "translations": {
+      "vi": "thận trọng"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-207",
+    "source_lang": "en",
+    "word": "stubborn",
+    "translations": {
+      "vi": "bướng bỉnh"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-208",
+    "source_lang": "en",
+    "word": "patient",
+    "translations": {
+      "vi": "kiên nhẫn"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-209",
+    "source_lang": "en",
+    "word": "impatient",
+    "translations": {
+      "vi": "thiếu kiên nhẫn"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-210",
+    "source_lang": "en",
+    "word": "achievement_gap",
+    "translations": {
+      "vi": "khoảng cách thành tích"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-211",
+    "source_lang": "en",
+    "word": "deadline",
+    "translations": {
+      "vi": "hạn chót"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-212",
+    "source_lang": "en",
+    "word": "priority",
+    "translations": {
+      "vi": "ưu tiên"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-213",
+    "source_lang": "en",
+    "word": "strategy",
+    "translations": {
+      "vi": "chiến lược"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-214",
+    "source_lang": "en",
+    "word": "risk",
+    "translations": {
+      "vi": "rủi ro"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-215",
+    "source_lang": "en",
+    "word": "benefit",
+    "translations": {
+      "vi": "lợi ích"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-216",
+    "source_lang": "en",
+    "word": "drawback",
+    "translations": {
+      "vi": "hạn chế"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-217",
+    "source_lang": "en",
+    "word": "survey",
+    "translations": {
+      "vi": "khảo sát"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-218",
+    "source_lang": "en",
+    "word": "statistic",
+    "translations": {
+      "vi": "số liệu thống kê"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-219",
+    "source_lang": "en",
+    "word": "average",
+    "translations": {
+      "vi": "trung bình"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-220",
+    "source_lang": "en",
+    "word": "percentage",
+    "translations": {
+      "vi": "tỷ lệ phần trăm"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-221",
+    "source_lang": "en",
+    "word": "majority",
+    "translations": {
+      "vi": "đa số"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-222",
+    "source_lang": "en",
+    "word": "symptom",
+    "translations": {
+      "vi": "triệu chứng"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-223",
+    "source_lang": "en",
+    "word": "treatment",
+    "translations": {
+      "vi": "phương pháp điều trị"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-224",
+    "source_lang": "en",
+    "word": "recovery",
+    "translations": {
+      "vi": "sự hồi phục"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b1-225",
+    "source_lang": "en",
+    "word": "prevention",
+    "translations": {
+      "vi": "phòng ngừa"
+    },
+    "topic": "General",
+    "level": "B1"
+  },
+  {
+    "id": "en-b2-080",
+    "source_lang": "en",
+    "word": "dilemma",
+    "translations": {
+      "vi": "tình thế khó xử"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-081",
+    "source_lang": "en",
+    "word": "paradox",
+    "translations": {
+      "vi": "nghịch lý"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-082",
+    "source_lang": "en",
+    "word": "assumption",
+    "translations": {
+      "vi": "giả định"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-083",
+    "source_lang": "en",
+    "word": "implication",
+    "translations": {
+      "vi": "hàm ý"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-084",
+    "source_lang": "en",
+    "word": "interpretation",
+    "translations": {
+      "vi": "cách diễn giải"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-085",
+    "source_lang": "en",
+    "word": "perception",
+    "translations": {
+      "vi": "nhận thức"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-086",
+    "source_lang": "en",
+    "word": "intuition",
+    "translations": {
+      "vi": "trực giác"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-087",
+    "source_lang": "en",
+    "word": "framework",
+    "translations": {
+      "vi": "khung lý thuyết"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-088",
+    "source_lang": "en",
+    "word": "methodology",
+    "translations": {
+      "vi": "phương pháp luận"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-089",
+    "source_lang": "en",
+    "word": "criterion",
+    "translations": {
+      "vi": "tiêu chí"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-090",
+    "source_lang": "en",
+    "word": "variable",
+    "translations": {
+      "vi": "biến số"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-091",
+    "source_lang": "en",
+    "word": "correlation",
+    "translations": {
+      "vi": "mối tương quan"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-092",
+    "source_lang": "en",
+    "word": "sustainability",
+    "translations": {
+      "vi": "tính bền vững"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-093",
+    "source_lang": "en",
+    "word": "renewable",
+    "translations": {
+      "vi": "có thể tái tạo"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-094",
+    "source_lang": "en",
+    "word": "biodiversity",
+    "translations": {
+      "vi": "đa dạng sinh học"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-095",
+    "source_lang": "en",
+    "word": "ecosystem",
+    "translations": {
+      "vi": "hệ sinh thái"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-096",
+    "source_lang": "en",
+    "word": "extinction",
+    "translations": {
+      "vi": "sự tuyệt chủng"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-097",
+    "source_lang": "en",
+    "word": "legislation",
+    "translations": {
+      "vi": "luật pháp"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-098",
+    "source_lang": "en",
+    "word": "regulation",
+    "translations": {
+      "vi": "quy định"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-099",
+    "source_lang": "en",
+    "word": "jurisdiction",
+    "translations": {
+      "vi": "thẩm quyền"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-100",
+    "source_lang": "en",
+    "word": "enforcement",
+    "translations": {
+      "vi": "sự thực thi"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-101",
+    "source_lang": "en",
+    "word": "violation",
+    "translations": {
+      "vi": "sự vi phạm"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-102",
+    "source_lang": "en",
+    "word": "negotiate",
+    "translations": {
+      "vi": "đàm phán"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-103",
+    "source_lang": "en",
+    "word": "mediate",
+    "translations": {
+      "vi": "hòa giải"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-104",
+    "source_lang": "en",
+    "word": "reconcile",
+    "translations": {
+      "vi": "hòa giải"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-105",
+    "source_lang": "en",
+    "word": "undermine",
+    "translations": {
+      "vi": "làm suy yếu"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-106",
+    "source_lang": "en",
+    "word": "reinforce",
+    "translations": {
+      "vi": "củng cố"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-107",
+    "source_lang": "en",
+    "word": "facilitate",
+    "translations": {
+      "vi": "tạo điều kiện thuận lợi"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-108",
+    "source_lang": "en",
+    "word": "hinder",
+    "translations": {
+      "vi": "cản trở"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-109",
+    "source_lang": "en",
+    "word": "comprehensive",
+    "translations": {
+      "vi": "toàn diện"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-110",
+    "source_lang": "en",
+    "word": "substantial",
+    "translations": {
+      "vi": "đáng kể"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-111",
+    "source_lang": "en",
+    "word": "marginal",
+    "translations": {
+      "vi": "không đáng kể"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-112",
+    "source_lang": "en",
+    "word": "inevitable",
+    "translations": {
+      "vi": "không thể tránh khỏi"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-113",
+    "source_lang": "en",
+    "word": "controversial",
+    "translations": {
+      "vi": "gây tranh cãi"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-114",
+    "source_lang": "en",
+    "word": "explicit",
+    "translations": {
+      "vi": "rõ ràng"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-115",
+    "source_lang": "en",
+    "word": "implicit",
+    "translations": {
+      "vi": "ngầm hiểu"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-116",
+    "source_lang": "en",
+    "word": "subtle",
+    "translations": {
+      "vi": "tinh tế"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-117",
+    "source_lang": "en",
+    "word": "skeptical",
+    "translations": {
+      "vi": "hoài nghi"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-118",
+    "source_lang": "en",
+    "word": "optimistic",
+    "translations": {
+      "vi": "lạc quan"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-119",
+    "source_lang": "en",
+    "word": "pessimistic",
+    "translations": {
+      "vi": "bi quan"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-120",
+    "source_lang": "en",
+    "word": "indifferent",
+    "translations": {
+      "vi": "thờ ơ"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-121",
+    "source_lang": "en",
+    "word": "empathetic",
+    "translations": {
+      "vi": "đồng cảm"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-122",
+    "source_lang": "en",
+    "word": "allocate",
+    "translations": {
+      "vi": "phân bổ"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-123",
+    "source_lang": "en",
+    "word": "distribute",
+    "translations": {
+      "vi": "phân phối"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-124",
+    "source_lang": "en",
+    "word": "prioritize",
+    "translations": {
+      "vi": "ưu tiên"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-125",
+    "source_lang": "en",
+    "word": "optimize",
+    "translations": {
+      "vi": "tối ưu hóa"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-126",
+    "source_lang": "en",
+    "word": "contradict",
+    "translations": {
+      "vi": "mâu thuẫn"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-127",
+    "source_lang": "en",
+    "word": "coincide",
+    "translations": {
+      "vi": "trùng hợp"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-128",
+    "source_lang": "en",
+    "word": "correspond",
+    "translations": {
+      "vi": "tương ứng"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-129",
+    "source_lang": "en",
+    "word": "overlap",
+    "translations": {
+      "vi": "chồng chéo"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-130",
+    "source_lang": "en",
+    "word": "diverge",
+    "translations": {
+      "vi": "phân kỳ"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-131",
+    "source_lang": "en",
+    "word": "initiative",
+    "translations": {
+      "vi": "sáng kiến"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-132",
+    "source_lang": "en",
+    "word": "incentive",
+    "translations": {
+      "vi": "động lực khuyến khích"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-133",
+    "source_lang": "en",
+    "word": "milestone",
+    "translations": {
+      "vi": "cột mốc"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-134",
+    "source_lang": "en",
+    "word": "breakthrough",
+    "translations": {
+      "vi": "đột phá"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-135",
+    "source_lang": "en",
+    "word": "autonomy",
+    "translations": {
+      "vi": "quyền tự chủ"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-136",
+    "source_lang": "en",
+    "word": "diversity",
+    "translations": {
+      "vi": "sự đa dạng"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-137",
+    "source_lang": "en",
+    "word": "equity",
+    "translations": {
+      "vi": "sự công bằng"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-138",
+    "source_lang": "en",
+    "word": "inclusion",
+    "translations": {
+      "vi": "sự hòa nhập"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-139",
+    "source_lang": "en",
+    "word": "discrimination",
+    "translations": {
+      "vi": "sự phân biệt đối xử"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-140",
+    "source_lang": "en",
+    "word": "infrastructure",
+    "translations": {
+      "vi": "cơ sở hạ tầng"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-141",
+    "source_lang": "en",
+    "word": "mechanism",
+    "translations": {
+      "vi": "cơ chế"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-142",
+    "source_lang": "en",
+    "word": "dynamics",
+    "translations": {
+      "vi": "động lực học"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-143",
+    "source_lang": "en",
+    "word": "equilibrium",
+    "translations": {
+      "vi": "trạng thái cân bằng"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-144",
+    "source_lang": "en",
+    "word": "momentum",
+    "translations": {
+      "vi": "đà phát triển"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-145",
+    "source_lang": "en",
+    "word": "credible",
+    "translations": {
+      "vi": "đáng tin"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-146",
+    "source_lang": "en",
+    "word": "plausible",
+    "translations": {
+      "vi": "hợp lý"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-b2-147",
+    "source_lang": "en",
+    "word": "feasible",
+    "translations": {
+      "vi": "có thể thực hiện được"
+    },
+    "topic": "General",
+    "level": "B2"
+  },
+  {
+    "id": "en-c1-079",
+    "source_lang": "en",
+    "word": "idiosyncratic",
+    "translations": {
+      "vi": "đặc trưng riêng"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-080",
+    "source_lang": "en",
+    "word": "synthesis",
+    "translations": {
+      "vi": "sự tổng hợp"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-081",
+    "source_lang": "en",
+    "word": "premise",
+    "translations": {
+      "vi": "tiền đề"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-082",
+    "source_lang": "en",
+    "word": "discrepancy",
+    "translations": {
+      "vi": "sự khác biệt"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-083",
+    "source_lang": "en",
+    "word": "nuance",
+    "translations": {
+      "vi": "sắc thái tinh tế"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-084",
+    "source_lang": "en",
+    "word": "connotation",
+    "translations": {
+      "vi": "hàm ý, nghĩa bóng"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-085",
+    "source_lang": "en",
+    "word": "denotation",
+    "translations": {
+      "vi": "nghĩa đen"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-086",
+    "source_lang": "en",
+    "word": "circumvent",
+    "translations": {
+      "vi": "lách qua, tránh né"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-087",
+    "source_lang": "en",
+    "word": "substantiate",
+    "translations": {
+      "vi": "chứng minh"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-088",
+    "source_lang": "en",
+    "word": "refute",
+    "translations": {
+      "vi": "bác bỏ"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-089",
+    "source_lang": "en",
+    "word": "repudiate",
+    "translations": {
+      "vi": "phủ nhận"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-090",
+    "source_lang": "en",
+    "word": "discern",
+    "translations": {
+      "vi": "nhận biết"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-091",
+    "source_lang": "en",
+    "word": "scrutinize",
+    "translations": {
+      "vi": "xem xét kỹ lưỡng"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-092",
+    "source_lang": "en",
+    "word": "elucidate",
+    "translations": {
+      "vi": "làm sáng tỏ"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-093",
+    "source_lang": "en",
+    "word": "tenacious",
+    "translations": {
+      "vi": "bền bỉ"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-094",
+    "source_lang": "en",
+    "word": "prudent",
+    "translations": {
+      "vi": "thận trọng, khôn ngoan"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-095",
+    "source_lang": "en",
+    "word": "candid",
+    "translations": {
+      "vi": "thẳng thắn"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-096",
+    "source_lang": "en",
+    "word": "indispensable",
+    "translations": {
+      "vi": "không thể thiếu"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-097",
+    "source_lang": "en",
+    "word": "superfluous",
+    "translations": {
+      "vi": "dư thừa"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-098",
+    "source_lang": "en",
+    "word": "redundant",
+    "translations": {
+      "vi": "thừa, dư thừa"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-099",
+    "source_lang": "en",
+    "word": "intrinsic",
+    "translations": {
+      "vi": "vốn có, nội tại"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-100",
+    "source_lang": "en",
+    "word": "extrinsic",
+    "translations": {
+      "vi": "bên ngoài, ngoại tại"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-101",
+    "source_lang": "en",
+    "word": "proliferate",
+    "translations": {
+      "vi": "gia tăng nhanh chóng"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-102",
+    "source_lang": "en",
+    "word": "diminish",
+    "translations": {
+      "vi": "giảm bớt"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-103",
+    "source_lang": "en",
+    "word": "escalate",
+    "translations": {
+      "vi": "leo thang"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-104",
+    "source_lang": "en",
+    "word": "compelling",
+    "translations": {
+      "vi": "thuyết phục, hấp dẫn"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-105",
+    "source_lang": "en",
+    "word": "persuasive",
+    "translations": {
+      "vi": "có sức thuyết phục"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-106",
+    "source_lang": "en",
+    "word": "formidable",
+    "translations": {
+      "vi": "đáng gờm"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-107",
+    "source_lang": "en",
+    "word": "daunting",
+    "translations": {
+      "vi": "làm nản lòng"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-108",
+    "source_lang": "en",
+    "word": "intimidating",
+    "translations": {
+      "vi": "đe dọa"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-109",
+    "source_lang": "en",
+    "word": "consensus",
+    "translations": {
+      "vi": "sự đồng thuận"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-110",
+    "source_lang": "en",
+    "word": "polarization",
+    "translations": {
+      "vi": "sự phân cực"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-111",
+    "source_lang": "en",
+    "word": "stereotype",
+    "translations": {
+      "vi": "định kiến"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-112",
+    "source_lang": "en",
+    "word": "prejudice",
+    "translations": {
+      "vi": "thành kiến"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-113",
+    "source_lang": "en",
+    "word": "tolerance",
+    "translations": {
+      "vi": "sự khoan dung"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-114",
+    "source_lang": "en",
+    "word": "repercussion",
+    "translations": {
+      "vi": "hậu quả"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-115",
+    "source_lang": "en",
+    "word": "ramification",
+    "translations": {
+      "vi": "hệ lụy"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-116",
+    "source_lang": "en",
+    "word": "precedent",
+    "translations": {
+      "vi": "tiền lệ"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-117",
+    "source_lang": "en",
+    "word": "anecdote",
+    "translations": {
+      "vi": "giai thoại"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-118",
+    "source_lang": "en",
+    "word": "testimony",
+    "translations": {
+      "vi": "lời chứng"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-119",
+    "source_lang": "en",
+    "word": "subsidize",
+    "translations": {
+      "vi": "trợ cấp"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-120",
+    "source_lang": "en",
+    "word": "deregulate",
+    "translations": {
+      "vi": "bãi bỏ quy định"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-121",
+    "source_lang": "en",
+    "word": "privatize",
+    "translations": {
+      "vi": "tư nhân hóa"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-122",
+    "source_lang": "en",
+    "word": "nationalize",
+    "translations": {
+      "vi": "quốc hữu hóa"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-123",
+    "source_lang": "en",
+    "word": "monopolize",
+    "translations": {
+      "vi": "độc quyền hóa"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-124",
+    "source_lang": "en",
+    "word": "cognitive",
+    "translations": {
+      "vi": "thuộc về nhận thức"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-125",
+    "source_lang": "en",
+    "word": "empirical",
+    "translations": {
+      "vi": "dựa trên thực nghiệm"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-126",
+    "source_lang": "en",
+    "word": "theoretical",
+    "translations": {
+      "vi": "thuộc về lý thuyết"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-127",
+    "source_lang": "en",
+    "word": "subjective",
+    "translations": {
+      "vi": "chủ quan"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-128",
+    "source_lang": "en",
+    "word": "objective",
+    "translations": {
+      "vi": "khách quan"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-129",
+    "source_lang": "en",
+    "word": "reciprocal",
+    "translations": {
+      "vi": "tương hỗ, qua lại"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-130",
+    "source_lang": "en",
+    "word": "symbiotic",
+    "translations": {
+      "vi": "cộng sinh"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-131",
+    "source_lang": "en",
+    "word": "egalitarian",
+    "translations": {
+      "vi": "bình đẳng"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c1-132",
+    "source_lang": "en",
+    "word": "authoritarian",
+    "translations": {
+      "vi": "độc đoán"
+    },
+    "topic": "General",
+    "level": "C1"
+  },
+  {
+    "id": "en-c2-081",
+    "source_lang": "en",
+    "word": "perfunctory",
+    "translations": {
+      "vi": "làm cho có, qua loa"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-082",
+    "source_lang": "en",
+    "word": "sycophantic",
+    "translations": {
+      "vi": "nịnh bợ"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-083",
+    "source_lang": "en",
+    "word": "euphony",
+    "translations": {
+      "vi": "âm thanh êm dịu"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-084",
+    "source_lang": "en",
+    "word": "verisimilitude",
+    "translations": {
+      "vi": "tính chân thực"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-085",
+    "source_lang": "en",
+    "word": "esoteric",
+    "translations": {
+      "vi": "bí truyền, khó hiểu"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-086",
+    "source_lang": "en",
+    "word": "equivocate",
+    "translations": {
+      "vi": "nói nước đôi"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-087",
+    "source_lang": "en",
+    "word": "prevaricate",
+    "translations": {
+      "vi": "nói dối quanh co"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-088",
+    "source_lang": "en",
+    "word": "dissemble",
+    "translations": {
+      "vi": "giả vờ, che giấu"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-089",
+    "source_lang": "en",
+    "word": "magnanimous",
+    "translations": {
+      "vi": "cao thượng, khoan dung"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-090",
+    "source_lang": "en",
+    "word": "parsimonious",
+    "translations": {
+      "vi": "keo kiệt"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-091",
+    "source_lang": "en",
+    "word": "sanguine",
+    "translations": {
+      "vi": "lạc quan"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-092",
+    "source_lang": "en",
+    "word": "truculent",
+    "translations": {
+      "vi": "hung hăng"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-093",
+    "source_lang": "en",
+    "word": "ostentatious",
+    "translations": {
+      "vi": "phô trương"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-094",
+    "source_lang": "en",
+    "word": "austere",
+    "translations": {
+      "vi": "khắc khổ, giản dị"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-095",
+    "source_lang": "en",
+    "word": "opulent",
+    "translations": {
+      "vi": "xa hoa"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-096",
+    "source_lang": "en",
+    "word": "squalid",
+    "translations": {
+      "vi": "bẩn thỉu, tồi tàn"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-097",
+    "source_lang": "en",
+    "word": "pristine",
+    "translations": {
+      "vi": "nguyên sơ, tinh khiết"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-098",
+    "source_lang": "en",
+    "word": "cataclysm",
+    "translations": {
+      "vi": "thảm họa lớn"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-099",
+    "source_lang": "en",
+    "word": "debacle",
+    "translations": {
+      "vi": "thất bại thảm hại"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-100",
+    "source_lang": "en",
+    "word": "fiasco",
+    "translations": {
+      "vi": "sự thất bại ê chề"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-101",
+    "source_lang": "en",
+    "word": "quandary",
+    "translations": {
+      "vi": "tình thế khó xử"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-102",
+    "source_lang": "en",
+    "word": "proclivity",
+    "translations": {
+      "vi": "xu hướng, thiên hướng"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-103",
+    "source_lang": "en",
+    "word": "propensity",
+    "translations": {
+      "vi": "khuynh hướng"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-104",
+    "source_lang": "en",
+    "word": "predilection",
+    "translations": {
+      "vi": "sở thích đặc biệt"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-105",
+    "source_lang": "en",
+    "word": "penchant",
+    "translations": {
+      "vi": "sở thích, thiên hướng"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-106",
+    "source_lang": "en",
+    "word": "aversion",
+    "translations": {
+      "vi": "sự ác cảm"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-107",
+    "source_lang": "en",
+    "word": "obdurate",
+    "translations": {
+      "vi": "cứng đầu, ngoan cố"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-108",
+    "source_lang": "en",
+    "word": "intransigent",
+    "translations": {
+      "vi": "không khoan nhượng"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-109",
+    "source_lang": "en",
+    "word": "mercurial",
+    "translations": {
+      "vi": "hay thay đổi thất thường"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-110",
+    "source_lang": "en",
+    "word": "exculpate",
+    "translations": {
+      "vi": "minh oan"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-111",
+    "source_lang": "en",
+    "word": "exonerate",
+    "translations": {
+      "vi": "tuyên bố vô tội"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-112",
+    "source_lang": "en",
+    "word": "vindicate",
+    "translations": {
+      "vi": "minh oan, biện minh"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-113",
+    "source_lang": "en",
+    "word": "incriminate",
+    "translations": {
+      "vi": "buộc tội"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-114",
+    "source_lang": "en",
+    "word": "indefatigable",
+    "translations": {
+      "vi": "không biết mệt mỏi"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-115",
+    "source_lang": "en",
+    "word": "intrepid",
+    "translations": {
+      "vi": "gan dạ, can đảm"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-116",
+    "source_lang": "en",
+    "word": "timorous",
+    "translations": {
+      "vi": "nhút nhát, sợ hãi"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-117",
+    "source_lang": "en",
+    "word": "diffident",
+    "translations": {
+      "vi": "rụt rè, thiếu tự tin"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-118",
+    "source_lang": "en",
+    "word": "panacea",
+    "translations": {
+      "vi": "thuốc chữa bách bệnh"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-119",
+    "source_lang": "en",
+    "word": "nadir",
+    "translations": {
+      "vi": "điểm thấp nhất"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-120",
+    "source_lang": "en",
+    "word": "zenith",
+    "translations": {
+      "vi": "đỉnh cao"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-121",
+    "source_lang": "en",
+    "word": "apogee",
+    "translations": {
+      "vi": "đỉnh điểm"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-122",
+    "source_lang": "en",
+    "word": "vestige",
+    "translations": {
+      "vi": "dấu vết còn sót lại"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-123",
+    "source_lang": "en",
+    "word": "extemporaneous",
+    "translations": {
+      "vi": "ứng khẩu, không chuẩn bị trước"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-124",
+    "source_lang": "en",
+    "word": "impromptu",
+    "translations": {
+      "vi": "ngẫu hứng"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-125",
+    "source_lang": "en",
+    "word": "perennial",
+    "translations": {
+      "vi": "lâu năm, vĩnh cửu"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-126",
+    "source_lang": "en",
+    "word": "transient",
+    "translations": {
+      "vi": "nhất thời, thoáng qua"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-127",
+    "source_lang": "en",
+    "word": "juxtapose",
+    "translations": {
+      "vi": "đặt cạnh nhau để so sánh"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-128",
+    "source_lang": "en",
+    "word": "conflate",
+    "translations": {
+      "vi": "gộp lẫn lộn"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-129",
+    "source_lang": "en",
+    "word": "delineate",
+    "translations": {
+      "vi": "phác họa, mô tả rõ"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-130",
+    "source_lang": "en",
+    "word": "extrapolate",
+    "translations": {
+      "vi": "suy diễn, ngoại suy"
+    },
+    "topic": "General",
+    "level": "C2"
+  },
+  {
+    "id": "en-c2-131",
+    "source_lang": "en",
+    "word": "circumscribe",
+    "translations": {
+      "vi": "giới hạn, khoanh vùng"
+    },
+    "topic": "General",
+    "level": "C2"
   }
 ]
