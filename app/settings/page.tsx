@@ -8,6 +8,7 @@ import {
   DEFAULT_FALL_SPEED,
 } from "@/lib/languages";
 import LanguageButton from "@/components/ui/LanguageButton";
+import PersistSettings from "@/components/ui/PersistSettings";
 
 const GAME_MODES = [
   { code: "normal", label: "Bình thường", hint: "Từ hiển thị rõ ràng" },
@@ -28,6 +29,11 @@ export default async function SettingsPage({ searchParams }: SettingsPageProps) 
 
   return (
     <div className="flex flex-1 flex-col items-center justify-center gap-8 bg-[#020617] px-6 py-16 text-center">
+      <PersistSettings
+        level={selectedLevel as CEFRLevel}
+        speed={selectedSpeed}
+        mode={selectedMode as "normal" | "recall"}
+      />
       <div>
         <h1 className="text-3xl font-bold text-white">Cài đặt</h1>
         <p className="mt-2 max-w-sm text-white/50">

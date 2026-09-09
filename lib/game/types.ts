@@ -1,6 +1,6 @@
-import type { WordData, PhraseData, BossData } from "@/lib/types";
+import type { WordData, BossData } from "@/lib/types";
 
-export type EntityKind = "minion" | "elite" | "recall";
+export type EntityKind = "minion" | "recall";
 
 export interface FallingEntity {
   id: string;
@@ -34,6 +34,5 @@ export interface BossState {
 
 export interface ContentPools {
   words: WordData[];
-  phrases: PhraseData[];
   boss: BossData | null;
 }

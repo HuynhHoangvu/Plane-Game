@@ -27,24 +27,31 @@ export default function HeaderBar({
   muted,
   onToggleMute,
 }: HeaderBarProps) {
+  const BOSS_CYCLE = 40;
+  const bossProgressPercent = Math.round(((BOSS_CYCLE - bossSpawnsIn) / BOSS_CYCLE) * 100);
+
   return (
     <div className="mb-3 flex items-center justify-between rounded-xl border border-white/10 bg-white/5 px-4 py-2 backdrop-blur-md">
       <div className="flex flex-col">
         <span className="text-xs font-medium text-cyan-300">Level {level}/50</span>
         <span className="text-[11px] text-white/50">CEFR: {topic}</span>
-        {bossSpawnsIn > 0 && bossSpawnsIn <= 3 && (
+        <div className="mt-1 flex items-center gap-1.5">
+          <div className="h-1.5 w-20 overflow-hidden rounded-full bg-white/10">
+            <div
+              className={`h-full rounded-full transition-all ${
+                bossSpawnsIn <= 3 ? "bg-rose-400" : "bg-gradient-to-r from-fuchsia-500 to-rose-400"
+              }`}
+              style={{ width: `${bossProgressPercent}%` }}
+            />
+          </div>
           <span
-            className={`mt-1 text-[11px] font-semibold ${
-              bossSpawnsIn === 1
-                ? "animate-pulse text-rose-400"
-                : bossSpawnsIn === 2
-                  ? "animate-pulse text-amber-400"
-                  : "text-amber-300"
+            className={`text-[10px] font-semibold tabular-nums ${
+              bossSpawnsIn <= 3 ? "animate-pulse text-rose-400" : "text-white/40"
             }`}
           >
-            ⚡ Boss in {bossSpawnsIn}
+            Boss {bossProgressPercent}%
           </span>
-        )}
+        </div>
       </div>
 
       <div className="flex flex-col items-center">

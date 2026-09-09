@@ -14,6 +14,39 @@ export interface LeaderboardEntry {
 
 const MUTE_KEY = "td-muted";
 const LEADERBOARD_KEY = "td-leaderboard";
+const LAST_SETTINGS_KEY = "td-last-settings";
+
+export interface LastSettings {
+  level: CEFRLevel;
+  speed: string;
+  mode: "normal" | "recall";
+}
+
+export function loadLastSettings(): LastSettings | null {
+  if (typeof window === "undefined") return null;
+  try {
+    const raw = window.localStorage.getItem(LAST_SETTINGS_KEY);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw);
+    if (typeof parsed.level !== "string" || typeof parsed.speed !== "string") return null;
+    return {
+      level: parsed.level,
+      speed: parsed.speed,
+      mode: parsed.mode === "recall" ? "recall" : "normal",
+    };
+  } catch {
+    return null;
+  }
+}
+
+export function saveLastSettings(settings: LastSettings): void {
+  if (typeof window === "undefined") return;
+  try {
+    window.localStorage.setItem(LAST_SETTINGS_KEY, JSON.stringify(settings));
+  } catch {
+    // ignore
+  }
+}
 
 function progressKey(lang: SourceLang, level: CEFRLevel): string {
   return `td-progress-${lang}-${level}`;

@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
-import type { WordData, PhraseData, BossData, SourceLang, CEFRLevel } from "@/lib/types";
+import type { WordData, BossData, SourceLang, CEFRLevel } from "@/lib/types";
 import type { FallingEntity } from "@/lib/game/types";
 import {
   findSpawnX,
@@ -87,7 +87,6 @@ export default function GameCanvas({
   const [bestScore, setBestScore] = useState(0);
 
   const [words, setWords] = useState<WordData[]>([]);
-  const [phrases, setPhrases] = useState<PhraseData[]>([]);
   const [bossList, setBossList] = useState<BossData[]>([]);
   const [boss, setBoss] = useState<BossData | null>(null);
   const [bossActive, setBossActive] = useState(false);
@@ -107,7 +106,6 @@ export default function GameCanvas({
   const lastTimeRef = useRef<number | null>(null);
   const spawnCountRef = useRef(0);
   const wordsBagRef = useRef<ShuffleBag<WordData> | null>(null);
-  const phrasesBagRef = useRef<ShuffleBag<PhraseData> | null>(null);
 
   const pausedRef = useRef(paused);
   const bossActiveRef = useRef(bossActive);
@@ -160,7 +158,6 @@ export default function GameCanvas({
 
   useEffect(() => {
     fetch(`/api/words?lang=${sourceLang}&level=${cefrLevel}`).then((r) => r.json()).then(setWords);
-    fetch(`/api/phrases?lang=${sourceLang}&level=${cefrLevel}`).then((r) => r.json()).then(setPhrases);
     fetch(`/api/boss?lang=${sourceLang}`)
       .then((r) => r.json())
       .then((list: BossData[]) => {
@@ -172,9 +169,6 @@ export default function GameCanvas({
   useEffect(() => {
     wordsBagRef.current = words.length > 0 ? createShuffleBag(words) : null;
   }, [words]);
-  useEffect(() => {
-    phrasesBagRef.current = phrases.length > 0 ? createShuffleBag(phrases) : null;
-  }, [phrases]);
 
   const spawnParticles = useCallback((x: number, y: number, color: string) => {
     for (let i = 0; i < 18; i++) {
@@ -233,36 +227,22 @@ export default function GameCanvas({
 
   const spawnEntity = useCallback(() => {
     const wordsPool = words;
-    const phrasesPool = phrases;
     if (wordsPool.length === 0) return;
 
     spawnCountRef.current += 1;
-    const useElite = spawnCountRef.current % 5 === 0 && phrasesPool.length > 0;
-    const useRecall = gameMode === "recall" && !useElite;
+    const useRecall = gameMode === "recall";
 
     const ctx = ctxRef.current;
-    let text: string;
-    let meaning: string;
-    let kind: FallingEntity["kind"] = "minion";
-
-    if (useElite) {
-      const p = phrasesBagRef.current?.next() ?? phrasesPool[Math.floor(Math.random() * phrasesPool.length)];
-      text = p.text;
-      meaning = p.translations["vi"] ?? "";
-      kind = "elite";
-    } else {
-      const w = wordsBagRef.current?.next() ?? wordsPool[Math.floor(Math.random() * wordsPool.length)];
-      text = w.word;
-      meaning = w.translations["vi"] ?? "";
-      kind = useRecall ? "recall" : "minion";
-    }
+    const w = wordsBagRef.current?.next() ?? wordsPool[Math.floor(Math.random() * wordsPool.length)];
+    const text = w.word;
+    const meaning = w.translations["vi"] ?? "";
+    const kind: FallingEntity["kind"] = useRecall ? "recall" : "minion";
 
     if (ctx) ctx.font = "28px sans-serif";
     const width = ctx ? ctx.measureText(text).width : text.length * 16;
 
     const baseSpeed = baseSpeedForLevel(levelRef.current, CANVAS_H, fallSpeedMultiplier);
-    let speed = speedForText(baseSpeed, text.length);
-    if (kind === "elite") speed *= 0.6;
+    const speed = speedForText(baseSpeed, text.length);
 
     const x = findSpawnX(width, CANVAS_W, entitiesRef.current);
 
@@ -280,7 +260,7 @@ export default function GameCanvas({
       dead: false,
       isRecall: kind === "recall",
     });
-  }, [words, phrases, fallSpeedMultiplier, gameMode]);
+  }, [words, fallSpeedMultiplier, gameMode]);
 
   const triggerBoss = useCallback(() => {
     const list = bossListRef.current;
@@ -318,8 +298,8 @@ export default function GameCanvas({
 
   const handleEntityComplete = useCallback(
     (entity: FallingEntity) => {
-      setScore((s) => s + (entity.kind === "elite" ? 150 : 50));
-      spawnParticles(entity.x + entity.width / 2, entity.y, entity.kind === "elite" ? "#facc15" : "#22d3ee");
+      setScore((s) => s + 50);
+      spawnParticles(entity.x + entity.width / 2, entity.y, "#22d3ee");
       if (!mutedRef.current) playExplosion();
       speakText(entity.displayText);
       if (entity.meaningText) {
@@ -498,7 +478,7 @@ export default function GameCanvas({
           ctx.fillText(charToDraw, entity.x + prevWidth, entity.y);
         }
 
-        if (!isRecall && entity.meaningText && entity.kind !== "elite") {
+        if (!isRecall && entity.meaningText) {
           ctx.font = "14px sans-serif";
           ctx.fillStyle = "rgba(148,163,184,0.8)";
           ctx.fillText(entity.meaningText, entity.x, entity.y + 18);
